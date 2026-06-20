@@ -69,6 +69,6 @@ public class TC_009_EditEmployee extends BaseClass {
         logger.info("Validating updated first name");
         ep.checkEmployeeFirstNameDisplayed(employeeID, firstName);
 
-        logger.info("Edit Employee Test Passed");
+        logger.info("Edit Employee Test Passed Successfully");
     }
 }
