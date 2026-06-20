@@ -1,0 +1,178 @@
+2026-06-02 14:12:11 INFO  Launching Chrome Browser
+2026-06-02 14:12:18 INFO  OrangeHRM Application Opened
+2026-06-02 14:12:21 INFO  OrangeHRM Application Opened
+2026-06-02 14:12:31 INFO  Closing Browser
+2026-06-02 14:12:55 INFO  Launching Chrome Browser
+2026-06-02 14:13:04 INFO  OrangeHRM Application Opened
+2026-06-02 14:13:06 INFO  Closing Browser
+2026-06-02 14:13:07 INFO  Launching Chrome Browser
+2026-06-02 14:13:13 INFO  OrangeHRM Application Opened
+2026-06-02 14:13:21 INFO  Closing Browser
+2026-06-02 14:15:31 INFO  Closing Browser
+2026-06-02 14:23:07 INFO  Launching Chrome Browser
+2026-06-02 14:23:15 INFO  OrangeHRM Application Opened
+2026-06-02 14:23:15 INFO  Login Test Started
+2026-06-02 14:23:15 INFO  Entering Username
+2026-06-02 14:23:20 INFO  Entering Password
+2026-06-02 14:23:20 INFO  Clicking Login Button
+2026-06-02 14:23:22 INFO  Verifying Login Success
+2026-06-02 14:23:22 INFO  Login Test Completed Successfully
+2026-06-02 14:23:22 INFO  Sample Login Test Started
+2026-06-02 14:23:22 INFO  Sample Login Test Completed
+2026-06-02 14:23:22 INFO  Closing Browser
+2026-06-02 14:23:23 INFO  Launching Chrome Browser
+2026-06-02 14:23:30 INFO  OrangeHRM Application Opened
+2026-06-02 14:23:30 INFO  Admin Menu Test Started
+2026-06-02 14:23:30 INFO  Entering Username
+2026-06-02 14:23:32 INFO  Entering Password
+2026-06-02 14:23:33 INFO  Clicking Login Button
+2026-06-02 14:23:33 INFO  Login Completed Successfully
+2026-06-02 14:23:33 INFO  Verifying Dashboard Page
+2026-06-02 14:23:41 INFO  Clicking Admin Menu
+2026-06-02 14:23:46 INFO  Admin Menu Clicked Successfully
+2026-06-02 14:23:46 INFO  Sample Dashboard Test Started
+2026-06-02 14:23:46 INFO  Entering Username
+2026-06-02 14:23:57 INFO  Closing Browser
+2026-06-02 14:47:10 INFO  Launching Chrome Browser
+2026-06-02 14:48:40 INFO  Launching Chrome Browser
+2026-06-02 14:48:49 INFO  OrangeHRM Application Opened
+2026-06-02 14:48:49 INFO  Login Test Started
+2026-06-02 14:48:49 INFO  Entering Username
+2026-06-02 14:48:50 INFO  Entering Password
+2026-06-02 14:48:50 INFO  Clicking Login Button
+2026-06-02 14:48:51 INFO  Login Completed Successfully
+2026-06-02 14:48:51 INFO  Verifying Login Success
+2026-06-02 14:48:51 INFO  Login Test Completed Successfully
+2026-06-02 14:48:51 INFO  Sample Login Test Started
+2026-06-02 14:48:51 INFO  Sample Login Test Completed
+2026-06-02 14:48:51 INFO  Closing Browser
+2026-06-02 14:48:51 INFO  Launching Chrome Browser
+2026-06-02 14:49:00 INFO  OrangeHRM Application Opened
+2026-06-02 14:49:00 INFO  Admin Menu Test Started
+2026-06-02 14:49:00 INFO  Entering Username
+2026-06-02 14:49:02 INFO  Entering Password
+2026-06-02 14:49:02 INFO  Clicking Login Button
+2026-06-02 14:49:02 INFO  Login Completed Successfully
+2026-06-02 14:49:02 INFO  Verifying Dashboard Page
+2026-06-02 14:49:14 INFO  Clicking Admin Menu
+2026-06-02 14:49:23 INFO  Admin Menu Clicked Successfully
+2026-06-02 14:49:23 INFO  Sample Dashboard Test Started
+2026-06-02 14:49:23 INFO  Entering Username
+2026-06-02 14:49:33 INFO  Closing Browser
+2026-06-02 16:01:14 INFO  Launching Edge Browser
+2026-06-02 16:01:18 INFO  Launching Edge Browser
+2026-06-02 16:01:48 INFO  Launching Chrome Browser
+2026-06-02 16:02:00 INFO  OrangeHRM Application Opened
+2026-06-02 16:02:00 INFO  Login Test Started
+2026-06-02 16:02:00 INFO  Entering Username
+2026-06-02 16:02:03 INFO  Entering Password
+2026-06-02 16:02:03 INFO  Clicking Login Button
+2026-06-02 16:02:03 INFO  Login Completed Successfully
+2026-06-02 16:02:03 INFO  Verifying Login Success
+2026-06-02 16:02:03 INFO  Login Test Completed Successfully
+2026-06-02 16:02:03 INFO  Sample Login Test Started
+2026-06-02 16:02:03 INFO  Closing Browser
+2026-06-02 16:02:04 INFO  Launching Chrome Browser
+2026-06-02 16:02:08 INFO  OrangeHRM Application Opened
+2026-06-02 16:02:08 INFO  Admin Menu Test Started
+2026-06-02 16:02:08 INFO  Entering Username
+2026-06-02 16:02:13 INFO  Entering Password
+2026-06-02 16:02:14 INFO  Clicking Login Button
+2026-06-02 16:02:14 INFO  Login Completed Successfully
+2026-06-02 16:02:14 INFO  Verifying Dashboard Page
+2026-06-02 16:02:20 INFO  Clicking Admin Menu
+2026-06-02 16:02:29 INFO  Admin Menu Clicked Successfully
+2026-06-02 16:02:29 INFO  Sample Dashboard Test Started
+2026-06-02 16:02:29 INFO  Entering Username
+2026-06-02 16:02:39 INFO  Closing Browser
+2026-06-02 16:03:19 INFO  Launching Edge Browser
+2026-06-02 16:03:23 INFO  Launching Edge Browser
+2026-06-02 16:05:57 INFO  Browser received from testng.xml: edge
+2026-06-02 16:05:57 INFO  Launching Edge Browser
+2026-06-02 16:06:00 INFO  Browser received from testng.xml: edge
+2026-06-02 16:06:00 INFO  Launching Edge Browser
+2026-06-02 16:08:15 INFO  Browser received from testng.xml: edge
+2026-06-02 16:08:15 INFO  Launching Edge Browser
+2026-06-02 16:08:17 INFO  Browser received from testng.xml: edge
+2026-06-02 16:08:17 INFO  Launching Edge Browser
+2026-06-02 16:13:16 INFO  Browser received from testng.xml: edge
+2026-06-02 16:13:16 INFO  Launching Edge Browser
+2026-06-02 16:13:20 INFO  Browser received from testng.xml: edge
+2026-06-02 16:13:20 INFO  Launching Edge Browser
+2026-06-02 17:05:27 INFO  Browser received from testng.xml: chrome
+2026-06-02 17:05:27 INFO  Launching Chrome Browser
+2026-06-02 17:05:39 INFO  Application Opened Successfully
+2026-06-02 17:05:39 INFO  Login Test Started
+2026-06-02 17:05:39 INFO  Entering Username
+2026-06-02 17:05:41 INFO  Entering Password
+2026-06-02 17:05:41 INFO  Clicking Login Button
+2026-06-02 17:05:41 INFO  Login Successful
+2026-06-02 17:05:41 INFO  Verifying Login Success
+2026-06-02 17:05:41 INFO  Login Test Completed Successfully
+2026-06-02 17:05:41 INFO  Sample Login Test Started
+2026-06-02 17:05:41 INFO  Closing Browser
+2026-06-02 17:05:41 INFO  Browser received from testng.xml: chrome
+2026-06-02 17:05:41 INFO  Launching Chrome Browser
+2026-06-02 17:05:49 INFO  Application Opened Successfully
+2026-06-02 17:05:49 INFO  Admin Menu Test Started
+2026-06-02 17:05:49 INFO  Entering Username
+2026-06-02 17:05:51 INFO  Entering Password
+2026-06-02 17:05:51 INFO  Clicking Login Button
+2026-06-02 17:05:51 INFO  Login Successful
+2026-06-02 17:05:51 INFO  Verifying Dashboard Page
+2026-06-02 17:06:10 INFO  Clicking Admin Menu
+2026-06-02 17:06:20 INFO  Admin Menu Clicked Successfully
+2026-06-02 17:06:20 INFO  Sample Dashboard Test Started
+2026-06-02 17:06:20 INFO  Entering Username
+2026-06-02 17:06:30 INFO  Closing Browser
+2026-06-02 17:07:30 INFO  Browser received from testng.xml: chrome
+2026-06-02 17:07:30 INFO  Launching Chrome Browser
+2026-06-02 17:07:39 INFO  Application Opened Successfully
+2026-06-02 17:07:39 INFO  Login Test Started
+2026-06-02 17:07:39 INFO  Entering Username
+2026-06-02 17:07:41 INFO  Entering Password
+2026-06-02 17:07:41 INFO  Clicking Login Button
+2026-06-02 17:07:41 INFO  Login Successful
+2026-06-02 17:07:41 INFO  Verifying Login Success
+2026-06-02 17:07:41 INFO  Login Test Completed Successfully
+2026-06-02 17:07:41 INFO  Sample Login Test Started
+2026-06-02 17:07:41 INFO  Closing Browser
+2026-06-02 17:07:42 INFO  Browser received from testng.xml: chrome
+2026-06-02 17:07:42 INFO  Launching Chrome Browser
+2026-06-02 17:07:49 INFO  Application Opened Successfully
+2026-06-02 17:07:49 INFO  Admin Menu Test Started
+2026-06-02 17:07:49 INFO  Entering Username
+2026-06-02 17:07:51 INFO  Entering Password
+2026-06-02 17:07:51 INFO  Clicking Login Button
+2026-06-02 17:07:51 INFO  Login Successful
+2026-06-02 17:07:51 INFO  Verifying Dashboard Page
+2026-06-02 17:07:58 INFO  Clicking Admin Menu
+2026-06-02 17:08:14 INFO  Admin Menu Clicked Successfully
+2026-06-02 17:08:14 INFO  Sample Dashboard Test Started
+2026-06-02 17:08:14 INFO  Entering Username
+2026-06-02 17:08:25 INFO  Closing Browser
+2026-06-02 17:09:51 INFO  Browser received from testng.xml: chrome
+2026-06-02 17:09:51 INFO  Launching Chrome Browser
+2026-06-02 17:09:58 INFO  Application Opened Successfully
+2026-06-02 17:09:58 INFO  Login Test Started
+2026-06-02 17:09:58 INFO  Entering Username
+2026-06-02 17:10:00 INFO  Entering Password
+2026-06-02 17:10:00 INFO  Clicking Login Button
+2026-06-02 17:10:06 INFO  Login Successful
+2026-06-02 17:10:06 INFO  Verifying Login Success
+2026-06-02 17:10:06 INFO  Login Test Completed Successfully
+2026-06-02 17:10:06 INFO  Closing Browser
+2026-06-02 17:10:07 INFO  Browser received from testng.xml: chrome
+2026-06-02 17:10:07 INFO  Launching Chrome Browser
+2026-06-02 17:10:15 INFO  Application Opened Successfully
+2026-06-02 17:10:15 INFO  Admin Menu Test Started
+2026-06-02 17:10:15 INFO  Entering Username
+2026-06-02 17:10:17 INFO  Entering Password
+2026-06-02 17:10:17 INFO  Clicking Login Button
+2026-06-02 17:10:17 INFO  Login Successful
+2026-06-02 17:10:17 INFO  Verifying Dashboard Page
+2026-06-02 17:10:26 INFO  Clicking Admin Menu
+2026-06-02 17:10:32 INFO  Admin Menu Clicked Successfully
+2026-06-02 17:10:32 INFO  Sample Dashboard Test Started
+2026-06-02 17:10:32 INFO  Entering Username
+2026-06-02 17:10:42 INFO  Closing Browser

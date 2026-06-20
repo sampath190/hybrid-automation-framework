@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="utilities.TestListener"/>
+  </listeners>
+  <test thread-count="5" name="Employee Module Tests(failed)">
+    <groups>
+      <run>
+        <include name="TC_006_AddEmployee"/>
+        <include name="TC_009_EditEmployee"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testCases.TC_006_AddEmployee">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="AddEmployee"/>
+        </methods>
+      </class> <!-- testCases.TC_006_AddEmployee -->
+      <class name="testCases.TC_009_EditEmployee">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="EditEmployeeFirstName"/>
+        </methods>
+      </class> <!-- testCases.TC_009_EditEmployee -->
+    </classes>
+  </test> <!-- Employee Module Tests(failed) -->
+</suite> <!-- Failed suite [Suite] -->

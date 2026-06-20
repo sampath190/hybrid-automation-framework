@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="utilities.TestListener" />
+	</listeners>
+	<parameter name="browser" value="chrome" />
+	<test name="Employee Module Tests">
+
+        <groups>
+            <run>
+               <include name="TC_006_AddEmployee"/> 
+                <include name="TC_009_EditEmployee"/>
+            </run>
+        </groups>
+
+        <classes>
+
+            <class name="testCases.TC_001_Login"/>
+            <class name="testCases.TC_002_DashBoard"/>
+            <class name="testCases.TC_003_LoginDataDriven"/>
+            <class name="testCases.TC_004_Logout"/>
+            <class name="testCases.TC_005_AdminPageValidation"/>
+            <class name="testCases.TC_006_AddEmployee"/>
+            <class name="testCases.TC_007_SearchEmployee"/>
+            <class name="testCases.TC_008_DeleteEmployee"></class>
+            <class name="testCases.TC_009_EditEmployee"></class>
+
+        </classes>
+
+    </test>
+</suite> <!-- Suite -->

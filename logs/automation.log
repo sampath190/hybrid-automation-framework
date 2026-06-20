@@ -1,0 +1,1965 @@
+2026-06-02 17:18:43 [main] INFO  testCases.TC_001_Login - Browser received from testng.xml: chrome
+2026-06-02 17:18:43 [main] INFO  testCases.TC_001_Login - Launching Chrome Browser
+2026-06-02 17:18:47 [main] INFO  testCases.TC_001_Login - Application Opened Successfully
+2026-06-02 17:18:47 [main] INFO  testCases.TC_001_Login - Login Test Started
+2026-06-02 17:18:47 [main] INFO  testCases.TC_001_Login - Entering Username
+2026-06-02 17:18:51 [main] INFO  testCases.TC_001_Login - Entering Password
+2026-06-02 17:18:51 [main] INFO  testCases.TC_001_Login - Clicking Login Button
+2026-06-02 17:18:57 [main] INFO  testCases.TC_001_Login - Login Successful
+2026-06-02 17:18:57 [main] INFO  testCases.TC_001_Login - Verifying Login Success
+2026-06-02 17:18:57 [main] INFO  testCases.TC_001_Login - Login Test Completed Successfully
+2026-06-02 17:18:57 [main] INFO  testCases.TC_001_Login - Closing Browser
+2026-06-02 17:25:55 [main] INFO  testCases.TC_001_Login - Browser received from testng.xml: chrome
+2026-06-02 17:25:55 [main] INFO  testCases.TC_001_Login - Launching Chrome Browser
+2026-06-02 17:25:59 [main] INFO  testCases.TC_001_Login - Application Opened Successfully
+2026-06-02 17:25:59 [main] INFO  testCases.TC_001_Login - Login Test Started
+2026-06-02 17:25:59 [main] INFO  testCases.TC_001_Login - Entering Username
+2026-06-02 17:26:03 [main] INFO  testCases.TC_001_Login - Entering Password
+2026-06-02 17:26:04 [main] INFO  testCases.TC_001_Login - Clicking Login Button
+2026-06-02 17:26:04 [main] INFO  testCases.TC_001_Login - Login Successful
+2026-06-02 17:26:04 [main] INFO  testCases.TC_001_Login - Verifying Login Success
+2026-06-02 17:26:04 [main] INFO  testCases.TC_001_Login - Login Test Completed Successfully
+2026-06-02 17:26:06 [main] INFO  testCases.TC_001_Login - Closing Browser
+2026-06-02 17:31:41 [main] INFO  testCases.TC_001_Login - Browser received from testng.xml: chrome
+2026-06-02 17:31:41 [main] INFO  testCases.TC_001_Login - Launching Chrome Browser
+2026-06-02 17:31:51 [main] INFO  testCases.TC_001_Login - Application Opened Successfully
+2026-06-02 17:31:51 [main] INFO  testCases.TC_001_Login - Login Test Started
+2026-06-02 17:31:51 [main] INFO  testCases.TC_001_Login - Entering Username
+2026-06-02 17:31:54 [main] INFO  testCases.TC_001_Login - Entering Password
+2026-06-02 17:31:54 [main] INFO  testCases.TC_001_Login - Clicking Login Button
+2026-06-02 17:31:54 [main] INFO  testCases.TC_001_Login - Login Successful
+2026-06-02 17:31:54 [main] INFO  testCases.TC_001_Login - Verifying Login Success
+2026-06-02 17:31:54 [main] INFO  testCases.TC_001_Login - Login Test Completed Successfully
+2026-06-02 17:31:59 [main] INFO  testCases.TC_001_Login - Closing Browser
+2026-06-02 17:46:51 [main] INFO  testCases.TC_001_Login - Browser received from testng.xml: chrome
+2026-06-02 17:46:51 [main] INFO  testCases.TC_001_Login - Launching Chrome Browser
+2026-06-02 17:47:05 [main] INFO  testCases.TC_001_Login - Application Opened Successfully
+2026-06-02 17:47:05 [main] INFO  testCases.TC_001_Login - Login Test Started
+2026-06-02 17:47:05 [main] INFO  testCases.TC_001_Login - Entering Username
+2026-06-02 17:47:09 [main] INFO  testCases.TC_001_Login - Entering Password
+2026-06-02 17:47:10 [main] INFO  testCases.TC_001_Login - Clicking Login Button
+2026-06-02 17:47:20 [main] INFO  testCases.TC_001_Login - Login Successful
+2026-06-02 17:47:20 [main] INFO  testCases.TC_001_Login - Verifying Login Success
+2026-06-02 17:47:20 [main] INFO  testCases.TC_001_Login - Login Test Completed Successfully
+2026-06-02 17:47:20 [main] INFO  testCases.TC_001_Login - Closing Browser
+2026-06-02 17:48:40 [main] INFO  testCases.TC_001_Login - Browser received from testng.xml: chrome
+2026-06-02 17:48:40 [main] INFO  testCases.TC_001_Login - Launching Chrome Browser
+2026-06-02 17:48:49 [main] INFO  testCases.TC_001_Login - Application Opened Successfully
+2026-06-02 17:48:49 [main] INFO  testCases.TC_001_Login - Login Test Started
+2026-06-02 17:48:49 [main] INFO  testCases.TC_001_Login - Entering Username
+2026-06-02 17:48:52 [main] INFO  testCases.TC_001_Login - Entering Password
+2026-06-02 17:48:52 [main] INFO  testCases.TC_001_Login - Clicking Login Button
+2026-06-02 17:48:52 [main] INFO  testCases.TC_001_Login - Login Successful
+2026-06-02 17:48:52 [main] INFO  testCases.TC_001_Login - Verifying Login Success
+2026-06-02 17:48:52 [main] INFO  testCases.TC_001_Login - Login Test Completed Successfully
+2026-06-02 17:48:52 [main] INFO  testCases.TC_001_Login - Closing Browser
+2026-06-02 17:58:16 [main] INFO  testCases.TC_001_Login - Browser received from testng.xml: chrome
+2026-06-02 17:58:16 [main] INFO  testCases.TC_001_Login - Launching Chrome Browser
+2026-06-02 17:58:25 [main] INFO  testCases.TC_001_Login - Application Opened Successfully
+2026-06-02 17:58:25 [main] INFO  testCases.TC_001_Login - Login Test Started
+2026-06-02 17:58:25 [main] INFO  testCases.TC_001_Login - Entering Username
+2026-06-02 17:58:28 [main] INFO  testCases.TC_001_Login - Entering Password
+2026-06-02 17:58:28 [main] INFO  testCases.TC_001_Login - Clicking Login Button
+2026-06-02 17:58:30 [main] INFO  testCases.TC_001_Login - Login Successful
+2026-06-02 17:58:30 [main] INFO  testCases.TC_001_Login - Verifying Login Success
+2026-06-02 17:58:31 [main] INFO  testCases.TC_001_Login - Login Test Completed Successfully
+2026-06-02 17:58:31 [main] INFO  testCases.TC_001_Login - Sample Login Test Started
+2026-06-02 17:58:31 [main] INFO  testCases.TC_001_Login - Sample Login Test Completed
+2026-06-02 17:58:31 [main] INFO  testCases.TC_001_Login - Closing Browser
+2026-06-02 18:05:11 [main] INFO  testCases.TC_001_Login - Browser received from testng.xml: chrome
+2026-06-02 18:05:11 [main] INFO  testCases.TC_001_Login - Launching Chrome Browser
+2026-06-02 18:05:20 [main] INFO  testCases.TC_001_Login - Application Opened Successfully
+2026-06-02 18:05:20 [main] INFO  testCases.TC_001_Login - Login Test Started
+2026-06-02 18:05:20 [main] INFO  testCases.TC_001_Login - Entering Username
+2026-06-02 18:05:22 [main] INFO  testCases.TC_001_Login - Entering Password
+2026-06-02 18:05:22 [main] INFO  testCases.TC_001_Login - Clicking Login Button
+2026-06-02 18:05:24 [main] INFO  testCases.TC_001_Login - Login Successful
+2026-06-02 18:05:24 [main] INFO  testCases.TC_001_Login - Verifying Login Success
+2026-06-02 18:05:25 [main] INFO  testCases.TC_001_Login - Login Test Completed Successfully
+2026-06-02 18:05:25 [main] INFO  testCases.TC_001_Login - Sample Login Test Started
+2026-06-02 18:05:25 [main] INFO  testCases.TC_001_Login - Sample Login Test Completed
+2026-06-02 18:05:25 [main] INFO  testCases.TC_001_Login - Closing Browser
+2026-06-02 18:08:31 [main] INFO  testCases.TC_001_Login - Browser received from testng.xml: chrome
+2026-06-02 18:08:31 [main] INFO  testCases.TC_001_Login - Launching Chrome Browser
+2026-06-02 18:08:41 [main] INFO  testCases.TC_001_Login - Application Opened Successfully
+2026-06-02 18:08:41 [main] INFO  testCases.TC_001_Login - Login Test Started
+2026-06-02 18:08:41 [main] INFO  testCases.TC_001_Login - Entering Username
+2026-06-02 18:08:43 [main] INFO  testCases.TC_001_Login - Entering Password
+2026-06-02 18:08:43 [main] INFO  testCases.TC_001_Login - Clicking Login Button
+2026-06-02 18:08:43 [main] INFO  testCases.TC_001_Login - Login Successful
+2026-06-02 18:08:43 [main] INFO  testCases.TC_001_Login - Verifying Login Success
+2026-06-02 18:08:57 [main] INFO  testCases.TC_001_Login - Sample Login Test Started
+2026-06-02 18:08:57 [main] INFO  testCases.TC_001_Login - Sample Login Test Completed
+2026-06-02 18:08:57 [main] INFO  testCases.TC_001_Login - Closing Browser
+2026-06-02 18:14:05 [main] INFO  testCases.TC_001_Login - Browser received from testng.xml: chrome
+2026-06-02 18:14:05 [main] INFO  testCases.TC_001_Login - Launching Chrome Browser
+2026-06-02 18:14:16 [main] INFO  testCases.TC_001_Login - Application Opened Successfully
+2026-06-02 18:14:16 [main] INFO  testCases.TC_001_Login - Login Test Started
+2026-06-02 18:14:16 [main] INFO  testCases.TC_001_Login - Entering Username
+2026-06-02 18:14:16 [main] INFO  testCases.TC_001_Login - Entering Password
+2026-06-02 18:14:17 [main] INFO  testCases.TC_001_Login - Clicking Login Button
+2026-06-02 18:14:17 [main] INFO  testCases.TC_001_Login - Login Successful
+2026-06-02 18:14:17 [main] INFO  testCases.TC_001_Login - Verifying Login Success
+2026-06-02 18:14:28 [main] INFO  testCases.TC_001_Login - Sample Login Test Started
+2026-06-02 18:14:28 [main] INFO  testCases.TC_001_Login - Sample Login Test Completed
+2026-06-02 18:14:28 [main] INFO  testCases.TC_001_Login - Closing Browser
+2026-06-02 18:36:38 [main] INFO  testCases.TC_003_LoginDataDriven - Browser received from testng.xml: chrome
+2026-06-02 18:36:38 [main] INFO  testCases.TC_003_LoginDataDriven - Launching Chrome Browser
+2026-06-02 18:36:46 [main] INFO  testCases.TC_003_LoginDataDriven - Application Opened Successfully
+2026-06-02 18:36:48 [main] INFO  testCases.TC_003_LoginDataDriven - Closing Browser
+2026-06-02 18:39:51 [main] INFO  testCases.TC_003_LoginDataDriven - Browser received from testng.xml: chrome
+2026-06-02 18:39:51 [main] INFO  testCases.TC_003_LoginDataDriven - Launching Chrome Browser
+2026-06-02 18:39:54 [main] INFO  testCases.TC_003_LoginDataDriven - Application Opened Successfully
+2026-06-02 18:39:55 [main] INFO  testCases.TC_003_LoginDataDriven - Data Driven Login Test Started
+2026-06-02 18:39:55 [main] INFO  testCases.TC_003_LoginDataDriven - Entering Username: Admin
+2026-06-02 18:39:59 [main] INFO  testCases.TC_003_LoginDataDriven - Entering Password
+2026-06-02 18:39:59 [main] INFO  testCases.TC_003_LoginDataDriven - Clicking Login Button
+2026-06-02 18:40:02 [main] INFO  testCases.TC_003_LoginDataDriven - Data Driven Login Test Completed
+2026-06-02 18:40:02 [main] INFO  testCases.TC_003_LoginDataDriven - Data Driven Login Test Started
+2026-06-02 18:40:02 [main] INFO  testCases.TC_003_LoginDataDriven - Entering Username: Adminuu
+2026-06-02 18:40:13 [main] INFO  testCases.TC_003_LoginDataDriven - Data Driven Login Test Started
+2026-06-02 18:40:13 [main] INFO  testCases.TC_003_LoginDataDriven - Entering Username: Admin
+2026-06-02 18:40:23 [main] INFO  testCases.TC_003_LoginDataDriven - Closing Browser
+2026-06-04 22:06:37 [main] INFO  testCases.TC_004_Logout - Browser received from testng.xml: chrome
+2026-06-04 22:06:37 [main] INFO  testCases.TC_004_Logout - Launching Chrome Browser
+2026-06-04 22:06:43 [main] INFO  testCases.TC_004_Logout - Application Opened Successfully
+2026-06-04 22:06:43 [main] INFO  testCases.TC_004_Logout - Admin Menu Test Started
+2026-06-04 22:06:43 [main] INFO  testCases.TC_004_Logout - Entering Username
+2026-06-04 22:06:49 [main] INFO  testCases.TC_004_Logout - Entering Password
+2026-06-04 22:06:49 [main] INFO  testCases.TC_004_Logout - Clicking Login Button
+2026-06-04 22:06:50 [main] INFO  testCases.TC_004_Logout - Login Successful
+2026-06-04 22:06:50 [main] INFO  testCases.TC_004_Logout - Verifying Dashboard Page
+2026-06-04 22:06:51 [main] INFO  testCases.TC_004_Logout - Closing Browser
+2026-06-04 22:07:30 [main] INFO  testCases.TC_004_Logout - Browser received from testng.xml: chrome
+2026-06-04 22:07:30 [main] INFO  testCases.TC_004_Logout - Launching Chrome Browser
+2026-06-04 22:07:51 [main] INFO  testCases.TC_004_Logout - Application Opened Successfully
+2026-06-04 22:07:51 [main] INFO  testCases.TC_004_Logout - Admin Menu Test Started
+2026-06-04 22:07:51 [main] INFO  testCases.TC_004_Logout - Entering Username
+2026-06-04 22:07:51 [main] INFO  testCases.TC_004_Logout - Entering Password
+2026-06-04 22:07:52 [main] INFO  testCases.TC_004_Logout - Clicking Login Button
+2026-06-04 22:07:52 [main] INFO  testCases.TC_004_Logout - Login Successful
+2026-06-04 22:07:52 [main] INFO  testCases.TC_004_Logout - Verifying Dashboard Page
+2026-06-04 22:07:55 [main] INFO  testCases.TC_004_Logout - Closing Browser
+2026-06-04 22:25:18 [main] INFO  testCases.TC_004_Logout - Browser received from testng.xml: chrome
+2026-06-04 22:25:18 [main] INFO  testCases.TC_004_Logout - Launching Chrome Browser
+2026-06-04 22:25:37 [main] INFO  testCases.TC_004_Logout - Application Opened Successfully
+2026-06-04 22:25:37 [main] INFO  testCases.TC_004_Logout - Admin Menu Test Started
+2026-06-04 22:25:37 [main] INFO  testCases.TC_004_Logout - Entering Username
+2026-06-04 22:25:37 [main] INFO  testCases.TC_004_Logout - Entering Password
+2026-06-04 22:25:37 [main] INFO  testCases.TC_004_Logout - Clicking Login Button
+2026-06-04 22:25:39 [main] INFO  testCases.TC_004_Logout - Login Successful
+2026-06-04 22:25:39 [main] INFO  testCases.TC_004_Logout - Verifying Dashboard Page
+2026-06-04 22:25:40 [main] INFO  testCases.TC_004_Logout - Clicking on the userdropdown
+2026-06-04 22:25:40 [main] INFO  testCases.TC_004_Logout - clicking on logout
+2026-06-04 22:25:41 [main] INFO  testCases.TC_004_Logout - Closing Browser
+2026-06-04 23:11:12 [main] INFO  testCases.TC_004_Logout - Browser received from testng.xml: chrome
+2026-06-04 23:11:12 [main] INFO  testCases.TC_004_Logout - Launching Chrome Browser
+2026-06-04 23:11:18 [main] INFO  testCases.TC_004_Logout - Application Opened Successfully
+2026-06-04 23:11:19 [main] INFO  testCases.TC_004_Logout - Admin Menu Test Started
+2026-06-04 23:11:19 [main] INFO  testCases.TC_004_Logout - Entering Username
+2026-06-04 23:11:19 [main] INFO  testCases.TC_004_Logout - Closing Browser
+2026-06-04 23:29:45 [main] INFO  testCases.TC_004_Logout - Browser received from testng.xml: chrome
+2026-06-04 23:29:45 [main] INFO  testCases.TC_004_Logout - Launching Chrome Browser
+2026-06-04 23:29:56 [main] INFO  testCases.TC_004_Logout - Application Opened Successfully
+2026-06-04 23:29:56 [main] INFO  testCases.TC_004_Logout - Admin Menu Test Started
+2026-06-04 23:29:56 [main] INFO  testCases.TC_004_Logout - Entering Username
+2026-06-04 23:29:57 [main] INFO  testCases.TC_004_Logout - Entering Password
+2026-06-04 23:29:57 [main] INFO  testCases.TC_004_Logout - Clicking Login Button
+2026-06-04 23:29:58 [main] INFO  testCases.TC_004_Logout - Login Successful
+2026-06-04 23:29:58 [main] INFO  testCases.TC_004_Logout - Verifying Dashboard Page
+2026-06-04 23:29:59 [main] INFO  testCases.TC_004_Logout - Clicking on the userdropdown
+2026-06-04 23:29:59 [main] INFO  testCases.TC_004_Logout - clicking on logout
+2026-06-04 23:30:00 [main] INFO  testCases.TC_004_Logout - Closing Browser
+2026-06-05 00:16:57 [main] INFO  testCases.TC_005_AdminPageValidation - Browser received from testng.xml: chrome
+2026-06-05 00:16:57 [main] INFO  testCases.TC_005_AdminPageValidation - Launching Chrome Browser
+2026-06-05 00:17:00 [main] INFO  testCases.TC_005_AdminPageValidation - Application Opened Successfully
+2026-06-05 00:17:00 [main] INFO  testCases.TC_005_AdminPageValidation - Entering Username
+2026-06-05 00:17:05 [main] INFO  testCases.TC_005_AdminPageValidation - Entering Password
+2026-06-05 00:17:05 [main] INFO  testCases.TC_005_AdminPageValidation - Clicking Login Button
+2026-06-05 00:17:05 [main] INFO  testCases.TC_005_AdminPageValidation - Login Successful
+2026-06-05 00:17:18 [main] INFO  testCases.TC_005_AdminPageValidation - Closing Browser
+2026-06-05 00:18:10 [main] INFO  testCases.TC_005_AdminPageValidation - Browser received from testng.xml: chrome
+2026-06-05 00:18:10 [main] INFO  testCases.TC_005_AdminPageValidation - Launching Chrome Browser
+2026-06-05 00:18:17 [main] INFO  testCases.TC_005_AdminPageValidation - Application Opened Successfully
+2026-06-05 00:18:17 [main] INFO  testCases.TC_005_AdminPageValidation - Entering Username
+2026-06-05 00:18:18 [main] INFO  testCases.TC_005_AdminPageValidation - Entering Password
+2026-06-05 00:18:18 [main] INFO  testCases.TC_005_AdminPageValidation - Clicking Login Button
+2026-06-05 00:18:18 [main] INFO  testCases.TC_005_AdminPageValidation - Login Successful
+2026-06-05 00:18:31 [main] INFO  testCases.TC_005_AdminPageValidation - Closing Browser
+2026-06-05 00:22:33 [main] INFO  testCases.TC_005_AdminPageValidation - Browser received from testng.xml: chrome
+2026-06-05 00:22:33 [main] INFO  testCases.TC_005_AdminPageValidation - Launching Chrome Browser
+2026-06-05 00:22:36 [main] INFO  testCases.TC_005_AdminPageValidation - Application Opened Successfully
+2026-06-05 00:22:36 [main] INFO  testCases.TC_005_AdminPageValidation - Entering Username
+2026-06-05 00:22:41 [main] INFO  testCases.TC_005_AdminPageValidation - Entering Password
+2026-06-05 00:22:41 [main] INFO  testCases.TC_005_AdminPageValidation - Clicking Login Button
+2026-06-05 00:22:43 [main] INFO  testCases.TC_005_AdminPageValidation - Login Successful
+2026-06-05 00:22:54 [main] INFO  testCases.TC_005_AdminPageValidation - Closing Browser
+2026-06-05 00:32:56 [main] INFO  testCases.TC_005_AdminPageValidation - Browser received from testng.xml: chrome
+2026-06-05 00:32:56 [main] INFO  testCases.TC_005_AdminPageValidation - Launching Chrome Browser
+2026-06-05 00:33:09 [main] INFO  testCases.TC_005_AdminPageValidation - Application Opened Successfully
+2026-06-05 00:33:09 [main] INFO  testCases.TC_005_AdminPageValidation - Admin Page Validation Test Started
+2026-06-05 00:33:09 [main] INFO  testCases.TC_005_AdminPageValidation - Entering Username
+2026-06-05 00:33:09 [main] INFO  testCases.TC_005_AdminPageValidation - Entering Password
+2026-06-05 00:33:09 [main] INFO  testCases.TC_005_AdminPageValidation - Clicking Login Button
+2026-06-05 00:33:09 [main] INFO  testCases.TC_005_AdminPageValidation - Login Successful
+2026-06-05 00:33:10 [main] INFO  testCases.TC_005_AdminPageValidation - Clicking Admin Menu
+2026-06-05 00:33:12 [main] INFO  testCases.TC_005_AdminPageValidation - Verifying Admin Page
+2026-06-05 00:33:22 [main] INFO  testCases.TC_005_AdminPageValidation - Closing Browser
+2026-06-05 00:36:33 [main] INFO  testCases.TC_005_AdminPageValidation - Browser received from testng.xml: chrome
+2026-06-05 00:36:33 [main] INFO  testCases.TC_005_AdminPageValidation - Launching Chrome Browser
+2026-06-05 00:36:41 [main] INFO  testCases.TC_005_AdminPageValidation - Application Opened Successfully
+2026-06-05 00:36:41 [main] INFO  testCases.TC_005_AdminPageValidation - Admin Page Validation Test Started
+2026-06-05 00:36:41 [main] INFO  testCases.TC_005_AdminPageValidation - Entering Username
+2026-06-05 00:36:42 [main] INFO  testCases.TC_005_AdminPageValidation - Entering Password
+2026-06-05 00:36:43 [main] INFO  testCases.TC_005_AdminPageValidation - Clicking Login Button
+2026-06-05 00:36:44 [main] INFO  testCases.TC_005_AdminPageValidation - Login Successful
+2026-06-05 00:36:44 [main] INFO  testCases.TC_005_AdminPageValidation - Clicking Admin Menu
+2026-06-05 00:36:54 [main] INFO  testCases.TC_005_AdminPageValidation - Closing Browser
+2026-06-05 00:41:13 [main] INFO  testCases.TC_005_AdminPageValidation - Browser received from testng.xml: chrome
+2026-06-05 00:41:13 [main] INFO  testCases.TC_005_AdminPageValidation - Launching Chrome Browser
+2026-06-05 00:41:33 [main] INFO  testCases.TC_005_AdminPageValidation - Application Opened Successfully
+2026-06-05 00:41:33 [main] INFO  testCases.TC_005_AdminPageValidation - Admin Page Validation Test Started
+2026-06-05 00:41:33 [main] INFO  testCases.TC_005_AdminPageValidation - Entering Username
+2026-06-05 00:41:34 [main] INFO  testCases.TC_005_AdminPageValidation - Entering Password
+2026-06-05 00:41:34 [main] INFO  testCases.TC_005_AdminPageValidation - Clicking Login Button
+2026-06-05 00:41:34 [main] INFO  testCases.TC_005_AdminPageValidation - Login Successful
+2026-06-05 00:41:35 [main] INFO  testCases.TC_005_AdminPageValidation - Clicking Admin Menu
+2026-06-05 00:41:37 [main] INFO  testCases.TC_005_AdminPageValidation - Verifying Admin Page
+2026-06-05 00:41:37 [main] INFO  testCases.TC_005_AdminPageValidation - Adminpage validation passed
+2026-06-05 00:41:37 [main] INFO  testCases.TC_005_AdminPageValidation - Closing Browser
+2026-06-05 00:45:43 [main] INFO  testCases.TC_005_AdminPageValidation - Browser received from testng.xml: chrome
+2026-06-05 00:45:43 [main] INFO  testCases.TC_005_AdminPageValidation - Launching Chrome Browser
+2026-06-05 00:45:51 [main] INFO  testCases.TC_005_AdminPageValidation - Application Opened Successfully
+2026-06-05 00:45:51 [main] INFO  testCases.TC_005_AdminPageValidation - Admin Page Validation Test Started
+2026-06-05 00:45:51 [main] INFO  testCases.TC_005_AdminPageValidation - Entering Username
+2026-06-05 00:45:52 [main] INFO  testCases.TC_005_AdminPageValidation - Entering Password
+2026-06-05 00:45:52 [main] INFO  testCases.TC_005_AdminPageValidation - Clicking Login Button
+2026-06-05 00:45:53 [main] INFO  testCases.TC_005_AdminPageValidation - Login Successful
+2026-06-05 00:45:53 [main] INFO  testCases.TC_005_AdminPageValidation - Clicking Admin Menu
+2026-06-05 00:46:13 [main] INFO  testCases.TC_005_AdminPageValidation - Closing Browser
+2026-06-05 00:46:42 [main] INFO  testCases.TC_005_AdminPageValidation - Browser received from testng.xml: chrome
+2026-06-05 00:46:42 [main] INFO  testCases.TC_005_AdminPageValidation - Launching Chrome Browser
+2026-06-05 00:46:45 [main] INFO  testCases.TC_005_AdminPageValidation - Application Opened Successfully
+2026-06-05 00:46:45 [main] INFO  testCases.TC_005_AdminPageValidation - Admin Page Validation Test Started
+2026-06-05 00:46:45 [main] INFO  testCases.TC_005_AdminPageValidation - Entering Username
+2026-06-05 00:46:49 [main] INFO  testCases.TC_005_AdminPageValidation - Entering Password
+2026-06-05 00:46:50 [main] INFO  testCases.TC_005_AdminPageValidation - Clicking Login Button
+2026-06-05 00:46:50 [main] INFO  testCases.TC_005_AdminPageValidation - Login Successful
+2026-06-05 00:46:51 [main] INFO  testCases.TC_005_AdminPageValidation - Clicking Admin Menu
+2026-06-05 00:46:53 [main] INFO  testCases.TC_005_AdminPageValidation - Verifying Admin Page
+2026-06-05 00:46:53 [main] INFO  testCases.TC_005_AdminPageValidation - Adminpage validation passed
+2026-06-05 00:46:53 [main] INFO  testCases.TC_005_AdminPageValidation - Closing Browser
+2026-06-05 01:14:53 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-05 01:14:53 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-05 01:14:56 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-05 01:14:57 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-05 01:14:57 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-05 01:15:03 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-05 01:15:03 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-05 01:15:04 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-05 01:15:06 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-05 01:15:39 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-05 01:15:39 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-05 01:15:41 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-05 01:15:41 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-05 01:15:41 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-05 01:15:46 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-05 01:15:46 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-05 01:15:46 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-05 01:15:51 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-05 01:25:45 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-05 01:25:45 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-05 01:25:54 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-05 01:25:54 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-05 01:25:54 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-05 01:25:56 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-05 01:25:56 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-05 01:25:59 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-05 01:25:59 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-05 01:26:06 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-05 01:26:06 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-05 01:26:07 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-05 01:29:10 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-05 01:29:10 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-05 01:29:18 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-05 01:29:18 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-05 01:29:18 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-05 01:29:19 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-05 01:29:19 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-05 01:29:19 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-05 01:29:19 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-05 01:29:21 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-05 01:29:21 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-05 01:29:21 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-05 01:29:25 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-05 01:56:44 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-05 01:56:44 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-05 01:56:58 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-05 01:56:58 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-05 01:56:58 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-05 01:56:59 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-05 01:56:59 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-05 01:57:00 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-05 01:57:00 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-05 01:57:02 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-05 01:57:02 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-05 01:57:02 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-05 01:57:06 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-05 01:57:25 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-05 01:57:25 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-05 01:57:32 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-05 01:57:32 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-05 01:57:32 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-05 01:57:34 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-05 01:57:34 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-05 01:57:34 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-05 01:57:36 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-05 01:57:38 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-05 01:57:38 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-05 01:57:38 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-05 01:57:47 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-05 02:09:12 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-05 02:09:12 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-05 02:09:15 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-05 02:09:15 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-05 02:09:16 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-05 02:09:20 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-05 02:09:20 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-05 02:09:20 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-05 02:09:21 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-05 02:09:23 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-05 02:09:23 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-05 02:09:23 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-05 02:09:24 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-05 02:09:29 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-05 02:41:38 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-05 02:41:38 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-05 02:41:41 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-05 02:41:41 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-05 02:41:41 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-05 02:41:47 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-05 02:41:47 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-05 02:41:47 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-05 02:41:48 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-05 02:41:49 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-05 02:41:49 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-05 02:41:50 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-05 02:41:50 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-05 02:41:56 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-05 02:42:26 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-05 02:42:26 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-05 02:42:34 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-05 02:42:34 [main] INFO  testCases.TC_007_SearchEmployee - Adding of employee starts
+2026-06-05 02:42:34 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-05 02:42:34 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-05 02:42:35 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-05 02:42:35 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-05 02:42:36 [main] INFO  testCases.TC_007_SearchEmployee - clicking on PIMbtn
+2026-06-05 02:42:38 [main] INFO  testCases.TC_007_SearchEmployee - clicking on add button
+2026-06-05 02:42:38 [main] INFO  testCases.TC_007_SearchEmployee - validating navigating to Employeelist page
+2026-06-05 02:42:48 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-05 02:48:53 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-05 02:48:53 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-05 02:48:57 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-05 02:48:57 [main] INFO  testCases.TC_007_SearchEmployee - Adding of employee starts
+2026-06-05 02:48:57 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-05 02:49:01 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-05 02:49:01 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-05 02:49:02 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-05 02:49:05 [main] INFO  testCases.TC_007_SearchEmployee - clicking on PIMbtn
+2026-06-05 02:49:09 [main] INFO  testCases.TC_007_SearchEmployee - clicking on add button
+2026-06-05 02:49:09 [main] INFO  testCases.TC_007_SearchEmployee - validating navigating to Employeelist page
+2026-06-05 02:49:10 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-05 03:02:27 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-05 03:02:27 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-05 03:02:30 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-05 03:02:55 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-05 03:02:55 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-05 03:02:57 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-05 03:03:26 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-05 03:03:26 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-05 03:03:28 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-05 03:03:44 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-05 03:03:44 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-05 03:03:53 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-05 03:03:53 [main] INFO  testCases.TC_007_SearchEmployee - Adding of employee starts
+2026-06-05 03:03:53 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-05 03:03:54 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-05 03:03:54 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-05 03:03:54 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-05 03:03:54 [main] INFO  testCases.TC_007_SearchEmployee - clicking on PIMbtn
+2026-06-05 03:03:57 [main] INFO  testCases.TC_007_SearchEmployee - clicking on add button
+2026-06-05 03:03:57 [main] INFO  testCases.TC_007_SearchEmployee - validating navigating to Employeelist page
+2026-06-05 03:04:05 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-05 03:12:23 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-05 03:12:23 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-05 03:12:26 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-05 03:12:26 [main] INFO  testCases.TC_007_SearchEmployee - Adding of employee starts
+2026-06-05 03:12:27 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-05 03:12:31 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-05 03:12:32 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-05 03:12:33 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-05 03:12:33 [main] INFO  testCases.TC_007_SearchEmployee - clicking on PIMbtn
+2026-06-05 03:12:35 [main] INFO  testCases.TC_007_SearchEmployee - clicking on add button
+2026-06-05 03:12:35 [main] INFO  testCases.TC_007_SearchEmployee - validating navigating to Employeelist page
+2026-06-05 03:12:36 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 00:35:28 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 00:35:28 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 00:35:34 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 00:35:34 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 00:35:34 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 00:35:39 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 00:35:39 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 00:35:40 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 00:35:40 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 00:35:42 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 00:35:42 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 00:35:43 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 00:35:49 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: esJJV EfZhY
+2026-06-06 00:35:49 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 00:35:49 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 00:35:49 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 00:36:00 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 00:36:00 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 00:36:00 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 00:36:01 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 00:36:01 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 00:36:01 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 00:36:03 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 00:36:05 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 00:36:05 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee : esJJV EfZhY
+2026-06-06 00:36:16 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 00:51:31 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 00:51:31 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 00:51:43 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 00:51:43 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 00:51:43 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 00:51:44 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 00:51:44 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 00:51:44 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 00:51:44 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 00:51:47 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 00:51:48 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 00:51:48 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 00:51:54 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: FInQw msPwT
+2026-06-06 00:51:54 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 00:51:54 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 00:51:54 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 00:52:05 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 00:52:05 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 00:52:05 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 00:52:06 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 00:52:06 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 00:52:06 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 00:52:07 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 00:52:09 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 00:52:10 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee : FInQw msPwT
+2026-06-06 00:52:11 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 00:54:48 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 00:54:48 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 00:54:54 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 00:54:54 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 00:54:54 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 00:54:55 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 00:54:55 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 00:54:55 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 00:54:56 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 00:54:58 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 00:54:58 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 00:54:59 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 00:55:04 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: sCAyQ oQKau
+2026-06-06 00:55:04 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 00:55:05 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 00:55:05 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 00:55:16 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 00:55:16 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 00:55:16 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 00:55:17 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 00:55:17 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 00:55:17 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 00:55:19 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 00:55:21 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 00:55:21 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee : sCAyQ yahol oQKau
+2026-06-06 00:55:22 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 00:59:39 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 00:59:39 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 00:59:49 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 00:59:49 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 00:59:49 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 00:59:49 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 00:59:49 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 00:59:49 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 00:59:51 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 00:59:52 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 00:59:53 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 00:59:53 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 00:59:59 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: VmThC THoaT
+2026-06-06 00:59:59 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 00:59:59 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 00:59:59 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 01:00:13 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 01:00:13 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 01:00:13 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 01:00:14 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 01:00:14 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 01:00:14 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 01:00:15 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 01:00:17 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 01:00:17 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee : VmThC zUFrQ THoaT
+2026-06-06 01:00:19 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 01:06:02 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 01:06:02 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 01:06:05 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 01:06:05 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 01:06:05 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 01:06:10 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 01:06:10 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 01:06:10 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 01:06:12 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 01:06:13 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 01:06:14 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 01:06:15 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 01:06:20 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: MpDRU mbJSS
+2026-06-06 01:06:21 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 01:06:21 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 01:06:21 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 01:06:32 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 01:06:32 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 01:06:32 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 01:06:33 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 01:06:33 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 01:06:33 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 01:06:34 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 01:06:36 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 01:06:37 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee : MpDRU
+2026-06-06 01:06:37 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Passed
+2026-06-06 01:06:37 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 01:40:43 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 01:40:43 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 01:40:53 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 01:40:54 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 01:40:54 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 01:40:54 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 01:40:54 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 01:40:56 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 01:40:56 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 01:40:58 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 01:40:58 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 01:40:59 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 01:41:05 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: HMZUO FMGZO
+2026-06-06 01:41:05 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 01:41:06 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 01:41:06 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 01:41:14 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 01:41:14 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 01:41:14 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 01:41:15 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 01:41:15 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 01:41:15 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 01:41:15 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 01:41:18 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 01:41:19 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee : HMZUO
+2026-06-06 01:41:20 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 01:53:38 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 01:53:38 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 01:53:41 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 01:53:41 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 01:53:41 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 01:53:47 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 01:53:47 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 01:53:47 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 01:53:49 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 01:53:51 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 01:53:51 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 01:53:52 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 01:53:58 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: OFuhC JVzVb
+2026-06-06 01:53:58 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 01:53:58 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 01:53:58 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 01:54:07 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 01:54:07 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 01:54:07 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 01:54:08 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 01:54:08 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 01:54:08 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 01:54:09 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 01:54:11 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 01:54:12 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee : OFuhC
+2026-06-06 01:54:13 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 01:55:33 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 01:55:33 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 01:55:45 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 01:55:45 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 01:55:45 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 01:55:46 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 01:55:46 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 01:55:46 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 01:55:46 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 01:55:50 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 01:55:50 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 01:55:51 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 01:55:57 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: gqoUY TixBf
+2026-06-06 01:55:57 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 01:55:57 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 01:55:57 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 01:56:08 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 01:56:09 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 01:56:09 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 01:56:09 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 01:56:09 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 01:56:09 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 01:56:11 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 01:56:13 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 01:56:13 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee : gqoUY
+2026-06-06 01:56:14 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Passed
+2026-06-06 01:56:14 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 02:02:43 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 02:02:43 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 02:02:54 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 02:02:54 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 02:02:54 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 02:02:55 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 02:02:55 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 02:02:55 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 02:02:55 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 02:02:58 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 02:02:59 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 02:02:59 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 02:03:04 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: ytutI snwvz
+2026-06-06 02:03:04 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 02:03:05 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 02:03:05 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 02:03:11 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 02:03:11 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 02:03:11 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 02:03:12 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 02:03:12 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 02:03:12 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 02:03:13 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 02:03:15 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 02:03:15 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee : ytutI
+2026-06-06 02:03:16 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 02:15:19 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 02:15:19 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 02:15:23 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 02:15:23 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 02:15:23 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 02:15:28 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 02:15:28 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 02:15:28 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 02:15:29 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 02:15:31 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 02:15:32 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 02:15:32 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 02:15:38 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: JMESQ aXyEY
+2026-06-06 02:15:38 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 02:15:38 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 02:15:38 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 02:15:44 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 02:15:44 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 02:15:44 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 02:15:45 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 02:15:45 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 02:15:45 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 02:15:46 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 02:15:48 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 02:15:48 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee ID : 64450
+2026-06-06 02:15:59 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 02:23:14 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 02:23:14 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 02:23:17 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 02:23:17 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 02:23:17 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 02:23:22 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 02:23:22 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 02:23:22 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 02:23:23 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 02:23:24 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 02:23:25 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 02:23:25 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 02:23:31 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: XuSxK mcBCv
+2026-06-06 02:23:31 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 02:23:31 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 02:23:31 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 02:23:37 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 02:23:37 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 02:23:37 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 02:23:38 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 02:23:38 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 02:23:38 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 02:23:39 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 02:23:41 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 02:23:41 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee ID : 70045
+2026-06-06 02:23:42 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 17:24:22 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 17:24:22 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 17:24:33 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 17:24:33 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 17:24:34 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 17:24:40 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 17:24:40 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 17:24:41 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 17:24:41 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 17:24:43 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 17:24:43 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 17:24:44 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 17:24:49 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: ITJHv opwgi
+2026-06-06 17:24:49 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 17:24:50 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 17:24:50 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 17:24:58 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 17:24:58 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 17:24:58 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 17:24:58 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 17:24:58 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 17:24:58 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 17:25:00 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 17:25:01 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 17:25:02 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee ID : 95392
+2026-06-06 17:25:11 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 17:25:32 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 17:25:32 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 17:25:40 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 17:25:40 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 17:25:40 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 17:25:40 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 17:25:40 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 17:25:40 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 17:25:42 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 17:25:43 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 17:25:44 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 17:25:44 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 17:25:50 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: yecLA zrHmF
+2026-06-06 17:25:50 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 17:25:50 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 17:25:50 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 17:25:57 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 17:25:57 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 17:25:57 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 17:25:57 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 17:25:57 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 17:25:57 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 17:25:59 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 17:26:00 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 17:26:00 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee ID : 25003
+2026-06-06 17:26:10 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 17:27:07 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 17:27:07 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 17:27:15 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 17:27:15 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 17:27:15 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 17:27:16 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 17:27:16 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 17:27:16 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 17:27:16 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 17:27:19 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 17:27:19 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 17:27:20 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 17:27:26 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: SQCPZ XPfUv
+2026-06-06 17:27:26 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 17:27:26 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 17:27:26 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 17:27:33 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 17:27:33 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 17:27:33 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 17:27:34 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 17:27:34 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 17:27:34 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 17:27:35 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 17:27:37 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 17:27:37 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee ID : 11603
+2026-06-06 17:27:46 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 17:28:02 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 17:28:02 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 17:28:10 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 17:28:10 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 17:28:10 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 17:28:11 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 17:28:11 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 17:28:11 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 17:28:12 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 17:28:14 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 17:28:14 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 17:28:15 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 17:28:20 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: gkLYF ovdyY
+2026-06-06 17:28:20 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 17:28:21 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 17:28:21 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 17:28:29 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 17:28:29 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 17:28:29 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 17:28:30 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 17:28:30 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 17:28:30 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 17:28:31 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 17:28:33 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 17:28:34 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee ID : 44375
+2026-06-06 17:28:43 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 17:33:03 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 17:33:03 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 17:33:06 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 17:33:06 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 17:33:06 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 17:33:15 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 17:33:15 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 17:33:16 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 17:33:17 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 17:33:19 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 17:33:19 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 17:33:20 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 17:33:25 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: XEziR svcCm
+2026-06-06 17:33:25 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 17:33:26 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 17:33:26 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 17:33:35 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 17:33:35 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 17:33:35 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 17:33:35 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 17:33:35 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 17:33:36 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 17:33:37 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 17:33:38 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 17:33:39 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee ID : 24585
+2026-06-06 17:33:48 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 17:34:57 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 17:34:57 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 17:35:07 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 17:35:07 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 17:35:07 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 17:35:08 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 17:35:08 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 17:35:08 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 17:35:09 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 17:35:11 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 17:35:11 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 17:35:12 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 17:35:21 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: WfEDa BcdDn
+2026-06-06 17:35:21 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 17:36:16 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 17:36:16 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 17:36:25 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 17:36:25 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 17:36:25 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 17:36:25 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 17:36:25 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 17:36:25 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 17:36:27 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 17:36:28 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 17:36:29 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 17:36:29 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 17:36:41 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: vxLCx sJKhA
+2026-06-06 17:36:41 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 17:41:16 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 17:41:16 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 17:41:20 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 17:41:21 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 17:41:21 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 17:41:26 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 17:41:26 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 17:41:29 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 17:41:30 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 17:41:33 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 17:41:33 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 17:41:34 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 17:41:46 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 17:42:57 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 17:42:57 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 17:43:05 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 17:43:05 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 17:43:05 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 17:43:05 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 17:43:06 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 17:43:06 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 17:43:06 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 17:43:10 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 17:43:10 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 17:43:11 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 17:43:13 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 17:43:38 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 17:43:38 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 17:43:44 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 17:43:44 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 17:43:44 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 17:43:45 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 17:43:45 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 17:43:45 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 17:43:46 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 17:43:48 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 17:43:49 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 17:43:50 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 17:44:01 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 17:53:43 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 17:53:43 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 17:53:53 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 17:53:53 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 17:53:53 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 17:53:53 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 17:53:53 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 17:53:53 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 17:53:55 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 17:53:57 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 17:53:58 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 17:53:59 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 17:54:08 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 17:55:20 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 17:55:20 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 17:55:26 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 17:55:26 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 17:55:26 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 17:55:27 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 17:55:27 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 17:55:27 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 17:55:29 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 17:55:31 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 17:55:31 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 17:55:32 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 17:55:34 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 17:56:24 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 17:56:24 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 17:56:35 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 17:56:35 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 17:56:35 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 17:56:35 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 17:56:35 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 17:56:36 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 17:56:38 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 17:56:40 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 17:56:40 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 17:56:41 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 17:56:53 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: pdHJD fiMOx
+2026-06-06 17:56:53 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 17:58:43 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 17:58:43 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 17:58:52 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 17:58:52 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 17:58:52 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 17:58:53 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 17:58:53 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 17:58:53 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 17:58:58 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 17:59:05 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 17:59:07 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 17:59:09 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 17:59:12 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 17:59:13 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 17:59:13 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 17:59:20 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 17:59:20 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 18:00:31 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:00:31 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 18:00:45 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 18:00:45 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 18:00:45 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 18:00:47 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 18:00:47 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 18:00:47 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 18:01:06 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 18:01:13 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 18:01:14 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 18:01:18 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 18:01:30 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 18:01:30 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:01:30 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 18:01:43 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 18:01:43 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 18:04:47 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:04:47 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 18:04:50 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 18:04:50 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 18:04:50 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 18:04:56 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 18:04:56 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 18:04:56 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 18:04:57 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 18:05:00 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 18:05:00 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 18:05:01 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 18:05:06 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: KCsqR Gyjdc
+2026-06-06 18:05:06 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 18:05:20 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:05:20 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 18:05:28 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 18:05:28 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 18:05:28 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 18:05:29 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 18:05:29 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 18:05:29 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 18:05:30 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 18:05:32 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 18:05:32 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 18:05:33 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 18:05:39 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: eHajt NhCPU
+2026-06-06 18:05:39 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 18:05:39 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:05:39 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 18:05:46 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 18:05:46 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 18:05:46 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 18:05:47 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 18:05:47 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 18:05:47 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 18:05:48 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 18:05:50 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 18:05:50 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee ID : 30383
+2026-06-06 18:05:59 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 18:24:19 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:24:19 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 18:24:22 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 18:24:22 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 18:24:22 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 18:24:28 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 18:24:28 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 18:24:28 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 18:24:29 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 18:24:31 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 18:24:31 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 18:24:32 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 18:24:37 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: cMCkp pJzZv
+2026-06-06 18:24:37 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 18:24:38 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:24:38 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 18:24:45 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 18:24:45 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 18:24:45 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 18:24:47 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 18:24:47 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 18:24:47 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 18:24:49 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 18:24:50 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 18:24:51 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee ID : 68511
+2026-06-06 18:24:51 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 18:25:02 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:25:02 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 18:25:12 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 18:25:12 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 18:25:12 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 18:25:12 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 18:25:12 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 18:25:12 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 18:25:14 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 18:25:15 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 18:25:16 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 18:25:16 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 18:25:21 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: jnjii GuZmQ
+2026-06-06 18:25:21 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 18:25:22 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:25:22 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 18:25:29 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 18:25:29 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 18:25:29 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 18:25:30 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 18:25:30 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 18:25:30 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 18:25:31 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 18:25:33 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 18:25:33 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee ID : 94643
+2026-06-06 18:25:33 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 18:26:30 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:26:30 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 18:26:37 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 18:26:37 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 18:26:37 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 18:26:38 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 18:26:38 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 18:26:38 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 18:26:39 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 18:26:41 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 18:26:41 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 18:26:42 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 18:26:47 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: ipGQp DsbiI
+2026-06-06 18:26:47 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 18:26:47 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:26:47 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 18:26:53 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 18:26:53 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 18:26:53 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 18:26:54 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 18:26:54 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 18:26:55 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 18:26:55 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 18:26:57 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 18:26:57 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee ID : 97466
+2026-06-06 18:26:58 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 18:27:21 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:27:21 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 18:27:30 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 18:27:30 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 18:27:30 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 18:27:30 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 18:27:30 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 18:27:30 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 18:27:30 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 18:27:33 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 18:27:34 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 18:27:35 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 18:27:40 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: pNhJH coaQf
+2026-06-06 18:27:40 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 18:27:40 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:27:40 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 18:27:48 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 18:27:48 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 18:27:48 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 18:27:49 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 18:27:49 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 18:27:49 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 18:27:50 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 18:27:52 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 18:27:53 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee ID : 32726
+2026-06-06 18:27:53 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 18:28:56 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:28:56 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 18:29:04 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 18:29:04 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 18:29:04 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 18:29:05 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 18:29:05 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 18:29:05 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 18:29:07 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 18:29:09 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 18:29:09 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 18:29:10 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 18:29:15 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: sZCvh PRMnL
+2026-06-06 18:29:15 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 18:29:16 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:29:16 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 18:29:24 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 18:29:24 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 18:29:24 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 18:29:25 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 18:29:25 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 18:29:26 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 18:29:26 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 18:29:28 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 18:29:28 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee ID : 55396
+2026-06-06 18:29:38 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 18:30:53 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:30:53 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 18:30:55 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 18:30:55 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 18:30:55 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 18:31:10 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 18:31:10 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 18:31:10 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 18:31:16 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 18:31:24 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 18:31:25 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 18:31:26 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 18:31:32 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: LkDJT zSVvd
+2026-06-06 18:31:32 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 18:31:32 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:31:32 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 18:31:42 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 18:31:42 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 18:31:42 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 18:31:43 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 18:31:43 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 18:31:43 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 18:31:45 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 18:31:47 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 18:31:47 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee ID : 31592
+2026-06-06 18:31:57 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 18:34:47 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:34:47 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 18:34:57 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 18:34:57 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 18:34:57 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 18:34:58 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 18:34:58 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 18:34:59 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 18:34:59 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 18:35:02 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 18:35:03 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 18:35:03 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 18:35:10 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: sSRfA ZlxiW
+2026-06-06 18:35:10 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 18:35:12 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:35:12 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 18:35:18 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 18:35:18 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 18:35:18 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 18:35:19 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 18:35:19 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 18:35:19 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 18:35:20 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 18:35:24 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 18:35:24 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee ID : 27308
+2026-06-06 18:35:25 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 18:46:49 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:46:49 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 18:46:52 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 18:46:52 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 18:46:52 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 18:47:00 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 18:47:00 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 18:47:01 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 18:47:01 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 18:47:03 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 18:47:03 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 18:47:04 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 18:47:10 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: neisd KCSvj
+2026-06-06 18:47:10 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 18:47:10 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:47:10 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 18:47:18 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 18:47:18 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 18:47:18 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 18:47:19 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 18:47:19 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 18:47:19 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 18:47:20 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 18:47:22 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 18:47:22 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee ID : 22764
+2026-06-06 18:47:23 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 18:51:43 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:51:43 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 18:51:49 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 18:51:49 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 18:51:49 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 18:51:51 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 18:51:51 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 18:51:51 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 18:51:52 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 18:51:53 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 18:51:54 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 18:51:54 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 18:52:00 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: apKxe kBKVu
+2026-06-06 18:52:00 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 18:52:00 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:52:00 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 18:52:09 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 18:52:09 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 18:52:09 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 18:52:09 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 18:52:09 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 18:52:10 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 18:52:11 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 18:52:12 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 18:52:13 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee ID : 09409
+2026-06-06 18:52:13 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 18:56:11 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:56:11 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 18:56:16 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 18:56:16 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 18:56:16 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 18:56:18 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 18:56:18 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 18:56:18 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 18:56:19 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 18:56:20 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 18:56:21 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 18:56:21 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 18:56:27 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: tkeef JqCaD
+2026-06-06 18:56:27 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 18:56:27 [main] INFO  testCases.TC_007_SearchEmployee - Browser received from testng.xml: chrome
+2026-06-06 18:56:27 [main] INFO  testCases.TC_007_SearchEmployee - Launching Chrome Browser
+2026-06-06 18:56:32 [main] INFO  testCases.TC_007_SearchEmployee - Application Opened Successfully
+2026-06-06 18:56:32 [main] INFO  testCases.TC_007_SearchEmployee - Employee Search Test Started
+2026-06-06 18:56:32 [main] INFO  testCases.TC_007_SearchEmployee - Entering Username
+2026-06-06 18:56:34 [main] INFO  testCases.TC_007_SearchEmployee - Entering Password
+2026-06-06 18:56:34 [main] INFO  testCases.TC_007_SearchEmployee - Clicking Login Button
+2026-06-06 18:56:34 [main] INFO  testCases.TC_007_SearchEmployee - Login Successful
+2026-06-06 18:56:35 [main] INFO  testCases.TC_007_SearchEmployee - Clicking on PIM button
+2026-06-06 18:56:36 [main] INFO  testCases.TC_007_SearchEmployee - Validating Employee List Page
+2026-06-06 18:56:37 [main] INFO  testCases.TC_007_SearchEmployee - Searching Employee ID : 60776
+2026-06-06 18:56:37 [main] INFO  testCases.TC_007_SearchEmployee - Closing Browser
+2026-06-06 19:13:08 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 19:13:08 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 19:13:18 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 19:13:18 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 19:13:18 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 19:13:19 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 19:13:19 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 19:13:21 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 19:13:21 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 19:13:22 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 19:13:22 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 19:13:23 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 19:13:28 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: FLjsQ MxkGa
+2026-06-06 19:13:28 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 19:14:24 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 19:14:24 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 19:14:33 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 19:14:33 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 19:14:33 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 19:14:34 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 19:14:34 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 19:14:34 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 19:14:35 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 19:14:36 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 19:14:37 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 19:14:38 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 19:14:43 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: ImEky oTsAp
+2026-06-06 19:14:43 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 19:17:51 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 19:17:51 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 19:17:59 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 19:17:59 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 19:17:59 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 19:17:59 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 19:18:00 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 19:18:00 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 19:18:01 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 19:18:02 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 19:18:03 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 19:18:03 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 19:18:09 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: BPxoq shkGQ
+2026-06-06 19:18:09 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 19:18:09 [main] INFO  testCases.TC_008_DeleteEmployee - Browser received from testng.xml: chrome
+2026-06-06 19:18:09 [main] INFO  testCases.TC_008_DeleteEmployee - Launching Chrome Browser
+2026-06-06 19:18:18 [main] INFO  testCases.TC_008_DeleteEmployee - Application Opened Successfully
+2026-06-06 19:18:18 [main] INFO  testCases.TC_008_DeleteEmployee - Employee Search Test Started
+2026-06-06 19:18:18 [main] INFO  testCases.TC_008_DeleteEmployee - Entering Username
+2026-06-06 19:18:18 [main] INFO  testCases.TC_008_DeleteEmployee - Entering Password
+2026-06-06 19:18:18 [main] INFO  testCases.TC_008_DeleteEmployee - Clicking Login Button
+2026-06-06 19:18:18 [main] INFO  testCases.TC_008_DeleteEmployee - Login Successful
+2026-06-06 19:18:20 [main] INFO  testCases.TC_008_DeleteEmployee - Clicking on PIM button
+2026-06-06 19:18:21 [main] INFO  testCases.TC_008_DeleteEmployee - Validating Employee List Page
+2026-06-06 19:18:21 [main] INFO  testCases.TC_008_DeleteEmployee - Searching Employee ID : 28115
+2026-06-06 19:18:22 [main] INFO  testCases.TC_008_DeleteEmployee - Closing Browser
+2026-06-06 19:33:24 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 19:33:24 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 19:33:33 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 19:33:33 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 19:33:33 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 19:33:33 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 19:33:33 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 19:33:34 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 19:33:34 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 19:33:37 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 19:33:37 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 19:33:38 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 19:33:45 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: BRJDP vrsYG
+2026-06-06 19:33:45 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 19:33:45 [main] INFO  testCases.TC_008_DeleteEmployee - Browser received from testng.xml: chrome
+2026-06-06 19:33:45 [main] INFO  testCases.TC_008_DeleteEmployee - Launching Chrome Browser
+2026-06-06 19:33:51 [main] INFO  testCases.TC_008_DeleteEmployee - Application Opened Successfully
+2026-06-06 19:33:51 [main] INFO  testCases.TC_008_DeleteEmployee - Employee Search Test Started
+2026-06-06 19:33:51 [main] INFO  testCases.TC_008_DeleteEmployee - Entering Username
+2026-06-06 19:33:51 [main] INFO  testCases.TC_008_DeleteEmployee - Entering Password
+2026-06-06 19:33:51 [main] INFO  testCases.TC_008_DeleteEmployee - Clicking Login Button
+2026-06-06 19:33:51 [main] INFO  testCases.TC_008_DeleteEmployee - Login Successful
+2026-06-06 19:33:53 [main] INFO  testCases.TC_008_DeleteEmployee - Clicking on PIM button
+2026-06-06 19:33:55 [main] INFO  testCases.TC_008_DeleteEmployee - Validating Employee List Page
+2026-06-06 19:33:55 [main] INFO  testCases.TC_008_DeleteEmployee - Searching Employee ID : 93485
+2026-06-06 19:33:57 [main] INFO  testCases.TC_008_DeleteEmployee - Closing Browser
+2026-06-06 19:36:43 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 19:36:43 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 19:36:49 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 19:36:49 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 19:36:49 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 19:36:50 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 19:36:50 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 19:36:50 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 19:36:51 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 19:36:53 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 19:36:54 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 19:36:54 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 19:37:01 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: zbOvS XbnNl
+2026-06-06 19:37:01 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 19:37:01 [main] INFO  testCases.TC_008_DeleteEmployee - Browser received from testng.xml: chrome
+2026-06-06 19:37:01 [main] INFO  testCases.TC_008_DeleteEmployee - Launching Chrome Browser
+2026-06-06 19:37:06 [main] INFO  testCases.TC_008_DeleteEmployee - Application Opened Successfully
+2026-06-06 19:37:06 [main] INFO  testCases.TC_008_DeleteEmployee - Employee Search Test Started
+2026-06-06 19:37:06 [main] INFO  testCases.TC_008_DeleteEmployee - Entering Username
+2026-06-06 19:37:07 [main] INFO  testCases.TC_008_DeleteEmployee - Entering Password
+2026-06-06 19:37:07 [main] INFO  testCases.TC_008_DeleteEmployee - Clicking Login Button
+2026-06-06 19:37:07 [main] INFO  testCases.TC_008_DeleteEmployee - Login Successful
+2026-06-06 19:37:09 [main] INFO  testCases.TC_008_DeleteEmployee - Clicking on PIM button
+2026-06-06 19:37:11 [main] INFO  testCases.TC_008_DeleteEmployee - Validating Employee List Page
+2026-06-06 19:37:11 [main] INFO  testCases.TC_008_DeleteEmployee - Searching Employee ID : 99105
+2026-06-06 19:37:19 [main] INFO  testCases.TC_008_DeleteEmployee - Closing Browser
+2026-06-06 19:50:55 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 19:50:55 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 19:51:04 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 19:51:04 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 19:51:04 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 19:51:05 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 19:51:05 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 19:51:05 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 19:51:05 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 19:51:11 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 19:51:11 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 19:51:12 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 19:51:19 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: KACDM NpjBW
+2026-06-06 19:51:19 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 19:51:19 [main] INFO  testCases.TC_008_DeleteEmployee - Browser received from testng.xml: chrome
+2026-06-06 19:51:19 [main] INFO  testCases.TC_008_DeleteEmployee - Launching Chrome Browser
+2026-06-06 19:51:25 [main] INFO  testCases.TC_008_DeleteEmployee - Application Opened Successfully
+2026-06-06 19:51:25 [main] INFO  testCases.TC_008_DeleteEmployee - Employee Search Test Started
+2026-06-06 19:51:25 [main] INFO  testCases.TC_008_DeleteEmployee - Entering Username
+2026-06-06 19:51:25 [main] INFO  testCases.TC_008_DeleteEmployee - Entering Password
+2026-06-06 19:51:26 [main] INFO  testCases.TC_008_DeleteEmployee - Clicking Login Button
+2026-06-06 19:51:26 [main] INFO  testCases.TC_008_DeleteEmployee - Login Successful
+2026-06-06 19:51:27 [main] INFO  testCases.TC_008_DeleteEmployee - Clicking on PIM button
+2026-06-06 19:51:29 [main] INFO  testCases.TC_008_DeleteEmployee - Validating Employee List Page
+2026-06-06 19:51:29 [main] INFO  testCases.TC_008_DeleteEmployee - Searching Employee ID : 31496
+2026-06-06 19:51:38 [main] INFO  testCases.TC_008_DeleteEmployee - Closing Browser
+2026-06-06 19:52:47 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 19:52:47 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 19:52:53 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 19:52:53 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 19:52:53 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 19:52:54 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 19:52:54 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 19:52:54 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 19:52:55 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 19:52:58 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 19:52:58 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 19:52:59 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 19:53:06 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: Yvyay IUQdM
+2026-06-06 19:53:06 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 19:53:06 [main] INFO  testCases.TC_008_DeleteEmployee - Browser received from testng.xml: chrome
+2026-06-06 19:53:06 [main] INFO  testCases.TC_008_DeleteEmployee - Launching Chrome Browser
+2026-06-06 19:53:13 [main] INFO  testCases.TC_008_DeleteEmployee - Application Opened Successfully
+2026-06-06 19:53:13 [main] INFO  testCases.TC_008_DeleteEmployee - Employee Search Test Started
+2026-06-06 19:53:13 [main] INFO  testCases.TC_008_DeleteEmployee - Entering Username
+2026-06-06 19:53:13 [main] INFO  testCases.TC_008_DeleteEmployee - Entering Password
+2026-06-06 19:53:13 [main] INFO  testCases.TC_008_DeleteEmployee - Clicking Login Button
+2026-06-06 19:53:13 [main] INFO  testCases.TC_008_DeleteEmployee - Login Successful
+2026-06-06 19:53:15 [main] INFO  testCases.TC_008_DeleteEmployee - Clicking on PIM button
+2026-06-06 19:53:17 [main] INFO  testCases.TC_008_DeleteEmployee - Validating Employee List Page
+2026-06-06 19:53:17 [main] INFO  testCases.TC_008_DeleteEmployee - Searching Employee ID : 15946
+2026-06-06 19:53:29 [main] INFO  testCases.TC_008_DeleteEmployee - Closing Browser
+2026-06-06 19:56:37 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 19:56:37 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 19:57:05 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 19:57:05 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 19:57:05 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 19:57:15 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 19:57:16 [main] INFO  testCases.TC_008_DeleteEmployee - Browser received from testng.xml: chrome
+2026-06-06 19:57:16 [main] INFO  testCases.TC_008_DeleteEmployee - Launching Chrome Browser
+2026-06-06 19:57:27 [main] INFO  testCases.TC_008_DeleteEmployee - Application Opened Successfully
+2026-06-06 19:57:27 [main] INFO  testCases.TC_008_DeleteEmployee - Delete Employee Test Started
+2026-06-06 19:57:27 [main] INFO  testCases.TC_008_DeleteEmployee - Entering Username
+2026-06-06 19:57:27 [main] INFO  testCases.TC_008_DeleteEmployee - Closing Browser
+2026-06-06 19:57:33 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 19:57:33 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 19:58:03 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 19:58:03 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 19:58:03 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 19:58:03 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 19:58:03 [main] INFO  testCases.TC_008_DeleteEmployee - Browser received from testng.xml: chrome
+2026-06-06 19:58:03 [main] INFO  testCases.TC_008_DeleteEmployee - Launching Chrome Browser
+2026-06-06 19:58:06 [main] INFO  testCases.TC_008_DeleteEmployee - Closing Browser
+2026-06-06 19:58:29 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 19:58:29 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 19:59:06 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 19:59:06 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 19:59:06 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 19:59:16 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 19:59:17 [main] INFO  testCases.TC_008_DeleteEmployee - Browser received from testng.xml: chrome
+2026-06-06 19:59:17 [main] INFO  testCases.TC_008_DeleteEmployee - Launching Chrome Browser
+2026-06-06 19:59:21 [main] INFO  testCases.TC_008_DeleteEmployee - Application Opened Successfully
+2026-06-06 19:59:21 [main] INFO  testCases.TC_008_DeleteEmployee - Delete Employee Test Started
+2026-06-06 19:59:21 [main] INFO  testCases.TC_008_DeleteEmployee - Entering Username
+2026-06-06 19:59:21 [main] INFO  testCases.TC_008_DeleteEmployee - Closing Browser
+2026-06-06 19:59:28 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 19:59:28 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 19:59:50 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 19:59:50 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 19:59:50 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 19:59:50 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 19:59:50 [main] INFO  testCases.TC_008_DeleteEmployee - Browser received from testng.xml: chrome
+2026-06-06 19:59:50 [main] INFO  testCases.TC_008_DeleteEmployee - Launching Chrome Browser
+2026-06-06 19:59:57 [main] INFO  testCases.TC_008_DeleteEmployee - Closing Browser
+2026-06-06 20:00:05 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 20:00:05 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 20:00:39 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 20:00:39 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 20:00:39 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 20:00:49 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 20:00:49 [main] INFO  testCases.TC_008_DeleteEmployee - Browser received from testng.xml: chrome
+2026-06-06 20:00:49 [main] INFO  testCases.TC_008_DeleteEmployee - Launching Chrome Browser
+2026-06-06 20:01:01 [main] INFO  testCases.TC_008_DeleteEmployee - Application Opened Successfully
+2026-06-06 20:01:01 [main] INFO  testCases.TC_008_DeleteEmployee - Delete Employee Test Started
+2026-06-06 20:01:01 [main] INFO  testCases.TC_008_DeleteEmployee - Entering Username
+2026-06-06 20:01:01 [main] INFO  testCases.TC_008_DeleteEmployee - Closing Browser
+2026-06-06 20:02:50 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 20:02:50 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 20:03:00 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 20:03:00 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 20:03:00 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 20:03:00 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 20:03:00 [main] INFO  testCases.TC_008_DeleteEmployee - Browser received from testng.xml: chrome
+2026-06-06 20:03:00 [main] INFO  testCases.TC_008_DeleteEmployee - Launching Chrome Browser
+2026-06-06 20:03:01 [main] INFO  testCases.TC_008_DeleteEmployee - Closing Browser
+2026-06-06 20:03:09 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 20:03:09 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 20:03:56 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 20:03:56 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 20:03:56 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 20:04:06 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 20:05:32 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 20:05:32 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 20:06:53 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 20:06:53 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 20:06:53 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 20:06:55 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 20:06:55 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 20:06:55 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 20:07:13 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 20:07:27 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 20:07:33 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 20:07:35 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 20:07:38 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 20:07:49 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 20:07:49 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 20:07:59 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 20:07:59 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 20:07:59 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 20:07:59 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 20:07:59 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 20:07:59 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 20:08:01 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 20:08:03 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 20:08:04 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 20:08:05 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 20:08:11 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: ezlRV CmSeN
+2026-06-06 20:08:11 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 20:08:45 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 20:08:45 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 20:09:09 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 20:09:09 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 20:09:09 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 20:09:14 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 20:09:14 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 20:09:14 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 20:09:19 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 20:09:34 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 20:09:36 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 20:09:40 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 20:09:42 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 20:09:43 [main] INFO  testCases.TC_008_DeleteEmployee - Browser received from testng.xml: chrome
+2026-06-06 20:09:43 [main] INFO  testCases.TC_008_DeleteEmployee - Launching Chrome Browser
+2026-06-06 20:10:26 [main] INFO  testCases.TC_008_DeleteEmployee - Application Opened Successfully
+2026-06-06 20:10:26 [main] INFO  testCases.TC_008_DeleteEmployee - Delete Employee Test Started
+2026-06-06 20:10:26 [main] INFO  testCases.TC_008_DeleteEmployee - Entering Username
+2026-06-06 20:10:27 [main] INFO  testCases.TC_008_DeleteEmployee - Entering Password
+2026-06-06 20:10:27 [main] INFO  testCases.TC_008_DeleteEmployee - Clicking Login Button
+2026-06-06 20:10:27 [main] INFO  testCases.TC_008_DeleteEmployee - Login Successful
+2026-06-06 20:10:28 [main] INFO  testCases.TC_008_DeleteEmployee - Clicking on PIM button
+2026-06-06 20:11:22 [main] INFO  testCases.TC_008_DeleteEmployee - Validating Employee List Page
+2026-06-06 20:11:22 [main] INFO  testCases.TC_008_DeleteEmployee - Searching Employee ID: 60102
+2026-06-06 20:11:23 [main] INFO  testCases.TC_008_DeleteEmployee - Clicking Search button
+2026-06-06 20:11:23 [main] INFO  testCases.TC_008_DeleteEmployee - Validating searched employee is displayed
+2026-06-06 20:11:44 [main] INFO  testCases.TC_008_DeleteEmployee - Closing Browser
+2026-06-06 20:12:35 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-06 20:12:35 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-06 20:13:00 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-06 20:13:00 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-06 20:13:00 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-06 20:13:01 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-06 20:13:01 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-06 20:13:01 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-06 20:13:03 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-06 20:13:05 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-06 20:13:06 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-06 20:13:06 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-06 20:13:12 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: tttBN jrMpK
+2026-06-06 20:13:12 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-06 20:13:13 [main] INFO  testCases.TC_008_DeleteEmployee - Browser received from testng.xml: chrome
+2026-06-06 20:13:13 [main] INFO  testCases.TC_008_DeleteEmployee - Launching Chrome Browser
+2026-06-06 20:13:27 [main] INFO  testCases.TC_008_DeleteEmployee - Application Opened Successfully
+2026-06-06 20:13:27 [main] INFO  testCases.TC_008_DeleteEmployee - Delete Employee Test Started
+2026-06-06 20:13:27 [main] INFO  testCases.TC_008_DeleteEmployee - Entering Username
+2026-06-06 20:13:28 [main] INFO  testCases.TC_008_DeleteEmployee - Entering Password
+2026-06-06 20:13:28 [main] INFO  testCases.TC_008_DeleteEmployee - Clicking Login Button
+2026-06-06 20:13:28 [main] INFO  testCases.TC_008_DeleteEmployee - Login Successful
+2026-06-06 20:13:31 [main] INFO  testCases.TC_008_DeleteEmployee - Clicking on PIM button
+2026-06-06 20:13:33 [main] INFO  testCases.TC_008_DeleteEmployee - Validating Employee List Page
+2026-06-06 20:13:34 [main] INFO  testCases.TC_008_DeleteEmployee - Searching Employee ID: 70465
+2026-06-06 20:13:34 [main] INFO  testCases.TC_008_DeleteEmployee - Clicking Search button
+2026-06-06 20:13:34 [main] INFO  testCases.TC_008_DeleteEmployee - Validating searched employee is displayed
+2026-06-06 20:13:34 [main] INFO  testCases.TC_008_DeleteEmployee - Selecting employee checkbox
+2026-06-06 20:13:34 [main] INFO  testCases.TC_008_DeleteEmployee - Clicking Delete button
+2026-06-06 20:13:35 [main] INFO  testCases.TC_008_DeleteEmployee - Confirming employee deletion
+2026-06-06 20:13:35 [main] INFO  testCases.TC_008_DeleteEmployee - Searching deleted employee again
+2026-06-06 20:13:35 [main] INFO  testCases.TC_008_DeleteEmployee - Verifying No Records Found message
+2026-06-06 20:13:39 [main] INFO  testCases.TC_008_DeleteEmployee - Employee deleted successfully
+2026-06-06 20:13:39 [main] INFO  testCases.TC_008_DeleteEmployee - Closing Browser
+2026-06-20 14:35:49 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-20 14:35:49 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-20 14:36:06 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-20 14:36:06 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-20 14:36:06 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-20 14:36:07 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-20 14:36:07 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-20 14:36:08 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-20 14:36:08 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-20 14:36:10 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-20 14:36:10 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-20 14:36:11 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-20 14:36:17 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: yMIAX njwBo
+2026-06-20 14:36:17 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-20 14:36:18 [main] INFO  testCases.TC_008_DeleteEmployee - Browser received from testng.xml: chrome
+2026-06-20 14:36:18 [main] INFO  testCases.TC_008_DeleteEmployee - Launching Chrome Browser
+2026-06-20 14:36:26 [main] INFO  testCases.TC_008_DeleteEmployee - Application Opened Successfully
+2026-06-20 14:36:26 [main] INFO  testCases.TC_008_DeleteEmployee - Delete Employee Test Started
+2026-06-20 14:36:26 [main] INFO  testCases.TC_008_DeleteEmployee - Entering Username
+2026-06-20 14:36:27 [main] INFO  testCases.TC_008_DeleteEmployee - Entering Password
+2026-06-20 14:36:27 [main] INFO  testCases.TC_008_DeleteEmployee - Clicking Login Button
+2026-06-20 14:36:27 [main] INFO  testCases.TC_008_DeleteEmployee - Login Successful
+2026-06-20 14:36:27 [main] INFO  testCases.TC_008_DeleteEmployee - Clicking on PIM button
+2026-06-20 14:36:33 [main] INFO  testCases.TC_008_DeleteEmployee - Validating Employee List Page
+2026-06-20 14:36:33 [main] INFO  testCases.TC_008_DeleteEmployee - Searching Employee ID: 83604
+2026-06-20 14:36:33 [main] INFO  testCases.TC_008_DeleteEmployee - Clicking Search button
+2026-06-20 14:36:33 [main] INFO  testCases.TC_008_DeleteEmployee - Validating searched employee is displayed
+2026-06-20 14:36:34 [main] INFO  testCases.TC_008_DeleteEmployee - Selecting employee checkbox
+2026-06-20 14:36:34 [main] INFO  testCases.TC_008_DeleteEmployee - Clicking Delete button
+2026-06-20 14:36:34 [main] INFO  testCases.TC_008_DeleteEmployee - Confirming employee deletion
+2026-06-20 14:36:34 [main] INFO  testCases.TC_008_DeleteEmployee - Searching deleted employee again
+2026-06-20 14:36:34 [main] INFO  testCases.TC_008_DeleteEmployee - Verifying No Records Found message
+2026-06-20 14:36:37 [main] INFO  testCases.TC_008_DeleteEmployee - Employee deleted successfully
+2026-06-20 14:36:37 [main] INFO  testCases.TC_008_DeleteEmployee - Closing Browser
+2026-06-20 15:30:36 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-20 15:30:36 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-20 15:30:39 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-20 15:30:40 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-20 15:30:40 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-20 15:30:44 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-20 15:30:44 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-20 15:30:44 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-20 15:30:45 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-20 15:30:47 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-20 15:30:47 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-20 15:30:48 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-20 15:30:53 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: bZtOm juqHE
+2026-06-20 15:30:53 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-20 15:32:08 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-20 15:32:08 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-20 15:32:10 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-20 15:32:10 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-20 15:32:10 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-20 15:32:11 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-20 15:35:23 [main] INFO  testCases.TC_009_EditEmployee - Browser received from testng.xml: chrome
+2026-06-20 15:35:23 [main] INFO  testCases.TC_009_EditEmployee - Launching Chrome Browser
+2026-06-20 15:35:29 [main] INFO  testCases.TC_009_EditEmployee - Application Opened Successfully
+2026-06-20 15:35:29 [main] INFO  testCases.TC_009_EditEmployee - Entering Username
+2026-06-20 15:35:30 [main] INFO  testCases.TC_009_EditEmployee - Entering Password
+2026-06-20 15:35:30 [main] INFO  testCases.TC_009_EditEmployee - Clicking Login Button
+2026-06-20 15:35:30 [main] INFO  testCases.TC_009_EditEmployee - Login Successful
+2026-06-20 15:35:35 [main] INFO  testCases.TC_009_EditEmployee - Closing Browser
+2026-06-20 15:38:40 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-20 15:38:40 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-20 15:38:44 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-20 15:38:44 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-20 15:38:44 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-20 15:38:49 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-20 15:38:49 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-20 15:38:52 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-20 15:38:52 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-20 15:38:59 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-20 15:39:00 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-20 15:39:03 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-20 15:39:13 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: HQHER DJiRU
+2026-06-20 15:39:13 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-20 15:39:13 [main] INFO  testCases.TC_009_EditEmployee - Browser received from testng.xml: chrome
+2026-06-20 15:39:13 [main] INFO  testCases.TC_009_EditEmployee - Launching Chrome Browser
+2026-06-20 15:39:21 [main] INFO  testCases.TC_009_EditEmployee - Application Opened Successfully
+2026-06-20 15:39:21 [main] INFO  testCases.TC_009_EditEmployee - Entering Username
+2026-06-20 15:39:22 [main] INFO  testCases.TC_009_EditEmployee - Entering Password
+2026-06-20 15:39:22 [main] INFO  testCases.TC_009_EditEmployee - Clicking Login Button
+2026-06-20 15:39:22 [main] INFO  testCases.TC_009_EditEmployee - Login Successful
+2026-06-20 15:39:26 [main] INFO  testCases.TC_009_EditEmployee - Closing Browser
+2026-06-20 15:39:58 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-20 15:39:58 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-20 15:40:04 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-20 15:40:04 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-20 15:40:04 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-20 15:40:04 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-20 15:40:04 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-20 15:40:04 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-20 15:40:05 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-20 15:40:07 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-20 15:40:07 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-20 15:40:08 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-20 15:40:13 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: gcbAr bIVjB
+2026-06-20 15:40:13 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-20 15:40:14 [main] INFO  testCases.TC_009_EditEmployee - Browser received from testng.xml: chrome
+2026-06-20 15:40:14 [main] INFO  testCases.TC_009_EditEmployee - Launching Chrome Browser
+2026-06-20 15:40:21 [main] INFO  testCases.TC_009_EditEmployee - Application Opened Successfully
+2026-06-20 15:40:21 [main] INFO  testCases.TC_009_EditEmployee - Entering Username
+2026-06-20 15:40:22 [main] INFO  testCases.TC_009_EditEmployee - Entering Password
+2026-06-20 15:40:22 [main] INFO  testCases.TC_009_EditEmployee - Clicking Login Button
+2026-06-20 15:40:22 [main] INFO  testCases.TC_009_EditEmployee - Login Successful
+2026-06-20 15:40:29 [main] INFO  testCases.TC_009_EditEmployee - Closing Browser
+2026-06-20 15:41:22 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-20 15:41:22 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-20 15:41:29 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-20 15:41:29 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-20 15:41:29 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-20 15:41:30 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-20 15:41:30 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-20 15:41:30 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-20 15:41:31 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-20 15:41:33 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-20 15:41:33 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-20 15:41:34 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-20 15:41:40 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: DcARH vPpPX
+2026-06-20 15:41:40 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-20 15:41:41 [main] INFO  testCases.TC_009_EditEmployee - Browser received from testng.xml: chrome
+2026-06-20 15:41:41 [main] INFO  testCases.TC_009_EditEmployee - Launching Chrome Browser
+2026-06-20 15:41:49 [main] INFO  testCases.TC_009_EditEmployee - Application Opened Successfully
+2026-06-20 15:41:49 [main] INFO  testCases.TC_009_EditEmployee - Entering Username
+2026-06-20 15:41:49 [main] INFO  testCases.TC_009_EditEmployee - Entering Password
+2026-06-20 15:41:49 [main] INFO  testCases.TC_009_EditEmployee - Clicking Login Button
+2026-06-20 15:41:49 [main] INFO  testCases.TC_009_EditEmployee - Login Successful
+2026-06-20 15:42:13 [main] INFO  testCases.TC_009_EditEmployee - Closing Browser
+2026-06-20 15:57:03 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-20 15:57:03 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-20 15:57:07 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-20 15:57:07 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-20 15:57:07 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-20 15:57:13 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-20 15:57:13 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-20 15:57:13 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-20 15:57:15 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-20 15:57:16 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-20 15:57:17 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-20 15:57:17 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-20 15:57:23 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: JfnDD eRJzX
+2026-06-20 15:57:23 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-20 15:57:24 [main] INFO  testCases.TC_009_EditEmployee - Browser received from testng.xml: chrome
+2026-06-20 15:57:24 [main] INFO  testCases.TC_009_EditEmployee - Launching Chrome Browser
+2026-06-20 15:57:30 [main] INFO  testCases.TC_009_EditEmployee - Application Opened Successfully
+2026-06-20 15:57:30 [main] INFO  testCases.TC_009_EditEmployee - Entering Username
+2026-06-20 15:57:31 [main] INFO  testCases.TC_009_EditEmployee - Entering Password
+2026-06-20 15:57:31 [main] INFO  testCases.TC_009_EditEmployee - Clicking Login Button
+2026-06-20 15:57:31 [main] INFO  testCases.TC_009_EditEmployee - Login Successful
+2026-06-20 15:57:56 [main] INFO  testCases.TC_009_EditEmployee - Closing Browser
+2026-06-20 16:13:39 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-20 16:13:39 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-20 16:13:42 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-20 16:13:42 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-20 16:13:42 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-20 16:13:50 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-20 16:13:51 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-20 16:13:51 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-20 16:13:51 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-20 16:13:56 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-20 16:13:58 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-20 16:13:59 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-20 16:14:07 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: wcgYY GhFnt
+2026-06-20 16:14:07 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-20 16:14:08 [main] INFO  testCases.TC_009_EditEmployee - Browser received from testng.xml: chrome
+2026-06-20 16:14:08 [main] INFO  testCases.TC_009_EditEmployee - Launching Chrome Browser
+2026-06-20 16:14:36 [main] INFO  testCases.TC_009_EditEmployee - Application Opened Successfully
+2026-06-20 16:14:36 [main] INFO  testCases.TC_009_EditEmployee - Entering Username
+2026-06-20 16:14:36 [main] INFO  testCases.TC_009_EditEmployee - Entering Password
+2026-06-20 16:14:36 [main] INFO  testCases.TC_009_EditEmployee - Clicking Login Button
+2026-06-20 16:14:37 [main] INFO  testCases.TC_009_EditEmployee - Login Successful
+2026-06-20 16:15:12 [main] INFO  testCases.TC_009_EditEmployee - Closing Browser
+2026-06-20 16:40:32 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-20 16:40:32 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-20 16:40:39 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-20 16:40:39 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-20 16:40:39 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-20 16:40:48 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-20 16:40:48 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-20 16:40:48 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-20 16:40:49 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-20 16:40:53 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-20 16:40:55 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-20 16:40:55 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-20 16:41:02 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: BZsGm kGuPP
+2026-06-20 16:41:02 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-20 16:41:03 [main] INFO  testCases.TC_009_EditEmployee - Browser received from testng.xml: chrome
+2026-06-20 16:41:03 [main] INFO  testCases.TC_009_EditEmployee - Launching Chrome Browser
+2026-06-20 16:41:09 [main] INFO  testCases.TC_009_EditEmployee - Application Opened Successfully
+2026-06-20 16:41:09 [main] INFO  testCases.TC_009_EditEmployee - Entering Username
+2026-06-20 16:41:09 [main] INFO  testCases.TC_009_EditEmployee - Entering Password
+2026-06-20 16:41:10 [main] INFO  testCases.TC_009_EditEmployee - Clicking Login Button
+2026-06-20 16:41:10 [main] INFO  testCases.TC_009_EditEmployee - Login Successful
+2026-06-20 16:41:29 [main] INFO  testCases.TC_009_EditEmployee - Closing Browser
+2026-06-20 16:42:00 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-20 16:42:00 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-20 16:42:25 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-20 16:42:25 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-20 16:42:25 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-20 16:42:25 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-20 16:42:25 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-20 16:42:25 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-20 16:42:27 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-20 16:42:29 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-20 16:42:31 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-20 16:42:31 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-20 16:42:39 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: ustDw UVuBc
+2026-06-20 16:42:39 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-20 16:42:39 [main] INFO  testCases.TC_009_EditEmployee - Browser received from testng.xml: chrome
+2026-06-20 16:42:39 [main] INFO  testCases.TC_009_EditEmployee - Launching Chrome Browser
+2026-06-20 16:42:54 [main] INFO  testCases.TC_009_EditEmployee - Application Opened Successfully
+2026-06-20 16:42:54 [main] INFO  testCases.TC_009_EditEmployee - Entering Username
+2026-06-20 16:42:55 [main] INFO  testCases.TC_009_EditEmployee - Entering Password
+2026-06-20 16:42:55 [main] INFO  testCases.TC_009_EditEmployee - Clicking Login Button
+2026-06-20 16:42:55 [main] INFO  testCases.TC_009_EditEmployee - Login Successful
+2026-06-20 16:43:34 [main] INFO  testCases.TC_009_EditEmployee - Closing Browser
+2026-06-20 16:46:06 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-20 16:46:06 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-20 16:46:08 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-20 16:46:08 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-20 16:46:09 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-20 16:46:15 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-20 16:46:15 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-20 16:46:15 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-20 16:46:16 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-20 16:46:20 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-20 16:46:22 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-20 16:46:22 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-20 16:46:29 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: MyOcQ vutEO
+2026-06-20 16:46:29 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-20 16:46:30 [main] INFO  testCases.TC_009_EditEmployee - Browser received from testng.xml: chrome
+2026-06-20 16:46:30 [main] INFO  testCases.TC_009_EditEmployee - Launching Chrome Browser
+2026-06-20 16:46:37 [main] INFO  testCases.TC_009_EditEmployee - Application Opened Successfully
+2026-06-20 16:46:37 [main] INFO  testCases.TC_009_EditEmployee - Entering Username
+2026-06-20 16:46:38 [main] INFO  testCases.TC_009_EditEmployee - Entering Password
+2026-06-20 16:46:38 [main] INFO  testCases.TC_009_EditEmployee - Clicking Login Button
+2026-06-20 16:46:38 [main] INFO  testCases.TC_009_EditEmployee - Login Successful
+2026-06-20 16:47:10 [main] INFO  testCases.TC_009_EditEmployee - Closing Browser
+2026-06-20 17:04:42 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-20 17:04:42 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-20 17:04:55 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-20 17:04:55 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-20 17:04:55 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-20 17:04:57 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-20 17:04:57 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-20 17:04:57 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-20 17:04:58 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-20 17:05:03 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-20 17:05:05 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-20 17:05:06 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-20 17:05:13 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: ljqGS CrZpU
+2026-06-20 17:05:13 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-20 17:05:14 [main] INFO  testCases.TC_009_EditEmployee - Browser received from testng.xml: chrome
+2026-06-20 17:05:14 [main] INFO  testCases.TC_009_EditEmployee - Launching Chrome Browser
+2026-06-20 17:05:20 [main] INFO  testCases.TC_009_EditEmployee - Application Opened Successfully
+2026-06-20 17:05:20 [main] INFO  testCases.TC_009_EditEmployee - Entering Username
+2026-06-20 17:05:21 [main] INFO  testCases.TC_009_EditEmployee - Entering Password
+2026-06-20 17:05:21 [main] INFO  testCases.TC_009_EditEmployee - Clicking Login Button
+2026-06-20 17:05:22 [main] INFO  testCases.TC_009_EditEmployee - Login Successful
+2026-06-20 17:05:54 [main] INFO  testCases.TC_009_EditEmployee - Closing Browser
+2026-06-20 17:11:11 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-20 17:11:11 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-20 17:11:14 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-20 17:11:14 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-20 17:11:14 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-20 17:11:19 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-20 17:11:20 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-20 17:11:20 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-20 17:11:21 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-20 17:11:24 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-20 17:11:26 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-20 17:11:26 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-20 17:11:34 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: jSsul DXiPp
+2026-06-20 17:11:34 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-20 17:11:34 [main] INFO  testCases.TC_009_EditEmployee - Browser received from testng.xml: chrome
+2026-06-20 17:11:34 [main] INFO  testCases.TC_009_EditEmployee - Launching Chrome Browser
+2026-06-20 17:11:40 [main] INFO  testCases.TC_009_EditEmployee - Application Opened Successfully
+2026-06-20 17:11:40 [main] INFO  testCases.TC_009_EditEmployee - Entering Username
+2026-06-20 17:11:42 [main] INFO  testCases.TC_009_EditEmployee - Entering Password
+2026-06-20 17:11:42 [main] INFO  testCases.TC_009_EditEmployee - Clicking Login Button
+2026-06-20 17:11:42 [main] INFO  testCases.TC_009_EditEmployee - Login Successful
+2026-06-20 17:12:20 [main] INFO  testCases.TC_009_EditEmployee - Closing Browser
+2026-06-20 17:15:58 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-20 17:15:58 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-20 17:16:05 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-20 17:16:05 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-20 17:16:05 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-20 17:16:05 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-20 17:16:06 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-20 17:16:06 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-20 17:16:06 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-20 17:16:10 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-20 17:16:11 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-20 17:16:12 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-20 17:16:19 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: AGcZy ndmYC
+2026-06-20 17:16:19 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-20 17:16:20 [main] INFO  testCases.TC_009_EditEmployee - Browser received from testng.xml: chrome
+2026-06-20 17:16:20 [main] INFO  testCases.TC_009_EditEmployee - Launching Chrome Browser
+2026-06-20 17:16:22 [main] INFO  testCases.TC_009_EditEmployee - Application Opened Successfully
+2026-06-20 17:16:22 [main] INFO  testCases.TC_009_EditEmployee - Entering Username
+2026-06-20 17:16:27 [main] INFO  testCases.TC_009_EditEmployee - Entering Password
+2026-06-20 17:16:27 [main] INFO  testCases.TC_009_EditEmployee - Clicking Login Button
+2026-06-20 17:16:27 [main] INFO  testCases.TC_009_EditEmployee - Login Successful
+2026-06-20 17:17:00 [main] INFO  testCases.TC_009_EditEmployee - Closing Browser
+2026-06-20 17:20:29 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-20 17:20:29 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-20 17:20:35 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-20 17:20:35 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-20 17:20:35 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-20 17:20:36 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-20 17:20:36 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-20 17:20:36 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-20 17:20:37 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-20 17:20:41 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-20 17:20:42 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-20 17:20:43 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-20 17:20:50 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: jvDtT YWDbR
+2026-06-20 17:20:50 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-20 17:20:51 [main] INFO  testCases.TC_009_EditEmployee - Browser received from testng.xml: chrome
+2026-06-20 17:20:51 [main] INFO  testCases.TC_009_EditEmployee - Launching Chrome Browser
+2026-06-20 17:21:02 [main] INFO  testCases.TC_009_EditEmployee - Application Opened Successfully
+2026-06-20 17:21:02 [main] INFO  testCases.TC_009_EditEmployee - Entering Username
+2026-06-20 17:21:03 [main] INFO  testCases.TC_009_EditEmployee - Entering Password
+2026-06-20 17:21:03 [main] INFO  testCases.TC_009_EditEmployee - Clicking Login Button
+2026-06-20 17:21:03 [main] INFO  testCases.TC_009_EditEmployee - Login Successful
+2026-06-20 17:21:38 [main] INFO  testCases.TC_009_EditEmployee - Closing Browser
+2026-06-20 17:34:28 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-20 17:34:28 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-20 17:34:32 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-20 17:34:32 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-20 17:34:32 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-20 17:34:37 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-20 17:34:37 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-20 17:34:40 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-20 17:34:41 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-20 17:34:44 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-20 17:34:45 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-20 17:34:46 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-20 17:34:55 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: JbJhW NgDUS
+2026-06-20 17:34:55 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-20 17:34:55 [main] INFO  testCases.TC_009_EditEmployee - Browser received from testng.xml: chrome
+2026-06-20 17:34:55 [main] INFO  testCases.TC_009_EditEmployee - Launching Chrome Browser
+2026-06-20 17:35:01 [main] INFO  testCases.TC_009_EditEmployee - Application Opened Successfully
+2026-06-20 17:35:01 [main] INFO  testCases.TC_009_EditEmployee - Edit Employee Test Started
+2026-06-20 17:35:01 [main] INFO  testCases.TC_009_EditEmployee - Entering Username
+2026-06-20 17:35:02 [main] INFO  testCases.TC_009_EditEmployee - Entering Password
+2026-06-20 17:35:02 [main] INFO  testCases.TC_009_EditEmployee - Clicking Login Button
+2026-06-20 17:35:02 [main] INFO  testCases.TC_009_EditEmployee - Login Successful
+2026-06-20 17:35:05 [main] INFO  testCases.TC_009_EditEmployee - Clicking PIM menu
+2026-06-20 17:35:08 [main] INFO  testCases.TC_009_EditEmployee - Searching Employee ID: 91174
+2026-06-20 17:35:10 [main] INFO  testCases.TC_009_EditEmployee - Opening employee record
+2026-06-20 17:35:12 [main] INFO  testCases.TC_009_EditEmployee - Editing First Name to: kXFKS
+2026-06-20 17:35:15 [main] INFO  testCases.TC_009_EditEmployee - Closing Browser
+2026-06-20 17:37:58 [main] INFO  testCases.TC_006_AddEmployee - Browser received from testng.xml: chrome
+2026-06-20 17:37:58 [main] INFO  testCases.TC_006_AddEmployee - Launching Chrome Browser
+2026-06-20 17:38:04 [main] INFO  testCases.TC_006_AddEmployee - Application Opened Successfully
+2026-06-20 17:38:04 [main] INFO  testCases.TC_006_AddEmployee - Adding of employee starts
+2026-06-20 17:38:04 [main] INFO  testCases.TC_006_AddEmployee - Entering Username
+2026-06-20 17:38:06 [main] INFO  testCases.TC_006_AddEmployee - Entering Password
+2026-06-20 17:38:06 [main] INFO  testCases.TC_006_AddEmployee - Clicking Login Button
+2026-06-20 17:38:07 [main] INFO  testCases.TC_006_AddEmployee - Login Successful
+2026-06-20 17:38:07 [main] INFO  testCases.TC_006_AddEmployee - clicking on PIMbtn
+2026-06-20 17:38:10 [main] INFO  testCases.TC_006_AddEmployee - validating navigating to Employeelist page
+2026-06-20 17:38:11 [main] INFO  testCases.TC_006_AddEmployee - clicking on add button
+2026-06-20 17:38:12 [main] INFO  testCases.TC_006_AddEmployee - Enter Firstname, LastName and EmpID
+2026-06-20 17:38:18 [main] INFO  testCases.TC_006_AddEmployee - Employee added successfully: KXHwk bPYZE
+2026-06-20 17:38:18 [main] INFO  testCases.TC_006_AddEmployee - Closing Browser
+2026-06-20 17:38:18 [main] INFO  testCases.TC_009_EditEmployee - Browser received from testng.xml: chrome
+2026-06-20 17:38:18 [main] INFO  testCases.TC_009_EditEmployee - Launching Chrome Browser
+2026-06-20 17:38:24 [main] INFO  testCases.TC_009_EditEmployee - Application Opened Successfully
+2026-06-20 17:38:24 [main] INFO  testCases.TC_009_EditEmployee - Edit Employee Test Started
+2026-06-20 17:38:24 [main] INFO  testCases.TC_009_EditEmployee - Entering Username
+2026-06-20 17:38:24 [main] INFO  testCases.TC_009_EditEmployee - Entering Password
+2026-06-20 17:38:24 [main] INFO  testCases.TC_009_EditEmployee - Clicking Login Button
+2026-06-20 17:38:24 [main] INFO  testCases.TC_009_EditEmployee - Login Successful
+2026-06-20 17:38:26 [main] INFO  testCases.TC_009_EditEmployee - Clicking PIM menu
+2026-06-20 17:38:27 [main] INFO  testCases.TC_009_EditEmployee - Searching Employee ID: 28635
+2026-06-20 17:38:28 [main] INFO  testCases.TC_009_EditEmployee - Opening employee record
+2026-06-20 17:38:29 [main] INFO  testCases.TC_009_EditEmployee - Editing First Name to: hOoUl
+2026-06-20 17:38:41 [main] INFO  testCases.TC_009_EditEmployee - Clicking Save button
+2026-06-20 17:38:42 [main] INFO  testCases.TC_009_EditEmployee - Employee updated successfully
+2026-06-20 17:38:42 [main] INFO  testCases.TC_009_EditEmployee - Navigating back to PIM
+2026-06-20 17:38:43 [main] INFO  testCases.TC_009_EditEmployee - Searching updated employee by ID: 28635
+2026-06-20 17:38:44 [main] INFO  testCases.TC_009_EditEmployee - Validating updated first name
+2026-06-20 17:38:45 [main] INFO  testCases.TC_009_EditEmployee - Edit Employee Test Passed
+2026-06-20 17:38:45 [main] INFO  testCases.TC_009_EditEmployee - Closing Browser

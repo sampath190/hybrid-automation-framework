@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="9" total="11" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-20T17:37:58 IST" name="Suite" finished-at="2026-06-20T17:38:45 IST" duration-ms="47630">
+    <groups>
+      <group name="regression">
+        <method signature="TC_006_AddEmployee.AddEmployee()[pri:0, instance:testCases.TC_006_AddEmployee@3de8f619]" name="AddEmployee" class="testCases.TC_006_AddEmployee"/>
+        <method signature="TC_009_EditEmployee.EditEmployeeFirstName()[pri:0, instance:testCases.TC_009_EditEmployee@eadd4fb]" name="EditEmployeeFirstName" class="testCases.TC_009_EditEmployee"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="TC_006_AddEmployee.AddEmployee()[pri:0, instance:testCases.TC_006_AddEmployee@3de8f619]" name="AddEmployee" class="testCases.TC_006_AddEmployee"/>
+        <method signature="TC_009_EditEmployee.EditEmployeeFirstName()[pri:0, instance:testCases.TC_009_EditEmployee@eadd4fb]" name="EditEmployeeFirstName" class="testCases.TC_009_EditEmployee"/>
+      </group> <!-- sanity -->
+      <group name="TC_009_EditEmployee">
+        <method signature="TC_009_EditEmployee.EditEmployeeFirstName()[pri:0, instance:testCases.TC_009_EditEmployee@eadd4fb]" name="EditEmployeeFirstName" class="testCases.TC_009_EditEmployee"/>
+      </group> <!-- TC_009_EditEmployee -->
+      <group name="employee">
+        <method signature="TC_009_EditEmployee.EditEmployeeFirstName()[pri:0, instance:testCases.TC_009_EditEmployee@eadd4fb]" name="EditEmployeeFirstName" class="testCases.TC_009_EditEmployee"/>
+      </group> <!-- employee -->
+      <group name="TC_006_AddEmployee">
+        <method signature="TC_006_AddEmployee.AddEmployee()[pri:0, instance:testCases.TC_006_AddEmployee@3de8f619]" name="AddEmployee" class="testCases.TC_006_AddEmployee"/>
+      </group> <!-- TC_006_AddEmployee -->
+    </groups>
+    <test started-at="2026-06-20T17:37:58 IST" name="Employee Module Tests" finished-at="2026-06-20T17:38:45 IST" duration-ms="47630">
+      <class name="testCases.TC_009_EditEmployee">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.TC_009_EditEmployee@eadd4fb]" started-at="2026-06-20T17:38:18 IST" name="setUp" finished-at="2026-06-20T17:38:24 IST" duration-ms="5517" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="EditEmployeeFirstName()[pri:0, instance:testCases.TC_009_EditEmployee@eadd4fb]" started-at="2026-06-20T17:38:24 IST" name="EditEmployeeFirstName" depends-on-groups="TC_006_AddEmployee" finished-at="2026-06-20T17:38:45 IST" duration-ms="21123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditEmployeeFirstName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_009_EditEmployee@eadd4fb]" started-at="2026-06-20T17:38:45 IST" name="tearDown" finished-at="2026-06-20T17:38:45 IST" duration-ms="389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_009_EditEmployee -->
+      <class name="testCases.TC_006_AddEmployee">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.TC_006_AddEmployee@3de8f619]" started-at="2026-06-20T17:37:58 IST" name="setUp" finished-at="2026-06-20T17:38:04 IST" duration-ms="6492" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AddEmployee()[pri:0, instance:testCases.TC_006_AddEmployee@3de8f619]" started-at="2026-06-20T17:38:04 IST" name="AddEmployee" finished-at="2026-06-20T17:38:18 IST" duration-ms="13728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddEmployee -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_006_AddEmployee@3de8f619]" started-at="2026-06-20T17:38:18 IST" name="tearDown" finished-at="2026-06-20T17:38:18 IST" duration-ms="344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_006_AddEmployee -->
+    </test> <!-- Employee Module Tests -->
+  </suite> <!-- Suite -->
+</testng-results>
