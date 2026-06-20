@@ -46,4 +46,4 @@ src/test/java
 4. Execute testng.xml
 
 ## Author
-Sampath Kumar Tadem
+Sampath Kumar Thadem
